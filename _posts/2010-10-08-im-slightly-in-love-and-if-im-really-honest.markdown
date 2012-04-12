@@ -8,4 +8,4 @@ categories:
 
 - pictures
 ---
-I'm slightly in love, and if I'm really honest about it, probably more so with the packaging than the porridge (although the cranberry & raspberry one is _nice_).
+I'm slightly in love, and if I'm really honest about it, probably more so with the packaging than the porridge (although the cranberry &amp; raspberry one is _nice_).

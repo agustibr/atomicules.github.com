@@ -8,7 +8,7 @@ categories:
 ---
 <p><a href="http://tumblr.zacharyscott.net/post/2830770929/announcing-green-shoes-website" class="tumblr_blog">zzak</a>:</p>
 
-<blockquote><p>I&#8217;m very pleased to announce that <a title="green_shoes sourcecode on github" href="http://github.com/ashbb/green_shoes">green_shoes</a> finally has a home on the web! Designed to provide an overview of the project and direct people to find out more.</p>
+<blockquote><p>I'm very pleased to announce that <a title="green_shoes sourcecode on github" href="http://github.com/ashbb/green_shoes">green_shoes</a> finally has a home on the web! Designed to provide an overview of the project and direct people to find out more.</p>
 <p><a title="Green Shoes" href="http://green.shoesrb.com/"><img height="76" width="315" alt="green_shoes logo" src="https://github.com/ashbb/green_shoes/raw/master/static/gshoes-heading-icon.png"/></a></p>
 </blockquote>
 

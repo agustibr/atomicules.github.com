@@ -21,14 +21,14 @@ As to music, as previously mentioned Last.fm seems to have stopped scrobbling fo
 2.   Two Door Cinema Club – Tourist History
 3.   Audio Bullys – Higher Than The Eiffel   
 4.   Florence + the Machine – Lungs
-5.   She & Him – Volume Two
+5.   She &amp; Him – Volume Two
 6.   Freestylers – Pressure Point
-7.   Mumford & Sons – Sigh No More   
+7.   Mumford &amp; Sons – Sigh No More   
 8.   Ou Est Le Swimming Pool – The Golden Year
 9.   Freestylers – Adventures In Freestyle
 10.  Shit Robot – From the Cradle to the Rave
 
-I've not listened to Ellie and Mumford & Sons for the past few months, but must have clocked up some listens earlier last year (and data will be skewed towards the start of the year due to lack of recent scrobbles). I mostly listen to albums, so artists should be similar: 
+I've not listened to Ellie and Mumford &amp; Sons for the past few months, but must have clocked up some listens earlier last year (and data will be skewed towards the start of the year due to lack of recent scrobbles). I mostly listen to albums, so artists should be similar: 
  
 ### Top Ten Artists
 
@@ -38,8 +38,8 @@ I've not listened to Ellie and Mumford & Sons for the past few months, but must 
 4.   Audio Bullys
 5.   Catatonia
 6.   Florence + the Machine
-7.   She & Him
-8.   Mumford & Sons
+7.   She &amp; Him
+8.   Mumford &amp; Sons
 9.   Ou Est Le Swimming Pool
 10.  La Roux
 

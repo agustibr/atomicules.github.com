@@ -7,16 +7,16 @@ categories:
 ---
 There's currently no sign of snow. But a month or so ago, when it could have been just around the corner for all I knew, my winter cycling checklist looked something like this (and so [I was a bit worried]({{ site.baseurl }}2011/07/17/fear-of-big-slides.html)):
 
-- &#x2610; - Reliable functioning lights
-- &#x2610; - Lower gear ratio to help with the studded tyres and mushed up snow
-- &#x2610; - Heated gloves
-- &#x2611; - None of the above (even though you've had 9 months to prepare and last year's experience to go on where you were so cold one night you felt like crying and got just a little bit scared about how you were going to make the remaining 6 miles cycle home. And so cold when you did get home that you couldn't use your hands to undress yourself and had to rock gently in front of the fire whilst your fingers thawed trying not to cry too much so as not to scare the kids)
+- ☐ - Reliable functioning lights
+- ☐ - Lower gear ratio to help with the studded tyres and mushed up snow
+- ☐ - Heated gloves
+- ☑ - None of the above (even though you've had 9 months to prepare and last year's experience to go on where you were so cold one night you felt like crying and got just a little bit scared about how you were going to make the remaining 6 miles cycle home. And so cold when you did get home that you couldn't use your hands to undress yourself and had to rock gently in front of the fire whilst your fingers thawed trying not to cry too much so as not to scare the kids)
 
 Fortunately it has improved somewhat and now looks like this:
 
-- &#x2611; - Reliable functioning lights
-- &#x2611; - Lower gear ratio to help with the studded tyres and mushed up snow
-- &#x2610; - Heated gloves
+- ☑ - Reliable functioning lights
+- ☑ - Lower gear ratio to help with the studded tyres and mushed up snow
+- ☐ - Heated gloves
 
 ##Smart Lunar 35 Lux Lights
 

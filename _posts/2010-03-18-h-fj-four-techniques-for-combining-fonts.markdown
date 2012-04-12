@@ -15,7 +15,7 @@ categories:
 <p>Hoefler &amp; Frere-Jones:</p>
 
 <blockquote>
-  <p>Here are four tips for navigating the typographic ocean, all built around H&amp;FJ’s Highly Scientific First Principle of Combining Fonts: keep one thing consistent, and let one thing vary.</p>
+  <p>Here are four tips for navigating the typographic ocean, all built around H&FJ’s Highly Scientific First Principle of Combining Fonts: keep one thing consistent, and let one thing vary.</p>
 </blockquote>
 
 <p>Positively bookmarkworthy. This is great stuff, and the examples are top-notch.</p>

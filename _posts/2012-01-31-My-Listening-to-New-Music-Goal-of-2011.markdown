@@ -1,7 +1,7 @@
 ---
 layout: page
 type: text
-title: My "Listening to New Music" Goal of 2010
+title: My 'Listening to New Music' Goal of 2010
 categories: 
 - code
 - owtelse

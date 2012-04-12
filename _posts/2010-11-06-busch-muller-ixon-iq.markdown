@@ -1,7 +1,7 @@
 ---
 layout: page
 type: text
-title: Busch & Müller Ixon IQ
+title: Busch &amp; Müller Ixon IQ
 categories: 
 - bicycles
 ---
@@ -11,7 +11,7 @@ This year, with about 17.5 miles of unlit country lanes I decided (well, rather 
 
 * [Fenix LD20 R4](http://www.fenixtorch.co.uk/led_torches/fenix-ld20-r4.html), 205 lumens, £47.95 (plus £6.95 for a [bike mount](http://www.fenixtorch.co.uk/led_torches/lockblock.html)).
 * [Hope Vision 1](http://www.hopegb.com/voir_visled1.html), 240 lumens, (varies, [£71.99](http://www.hopegb.com/voir_visled1.html) to [£81](http://www.wiggle.co.uk/hope-vision-1-led-front-light/))
-* [Busch & Muller Ixon IQ](http://www.bumm.de/index-e.html?docu/192q-e.htm), 40 Lux, [€55.90](http://www.bike24.com/1.php?content=8;navigation=1;menu=1000,5,66;product=6825).
+* [Busch &amp; Muller Ixon IQ](http://www.bumm.de/index-e.html?docu/192q-e.htm), 40 Lux, [€55.90](http://www.bike24.com/1.php?content=8;navigation=1;menu=1000,5,66;product=6825).
 
 The Hope Vision 1 and the Fenix are basically the same as far as light output goes, the main difference being the number of batteries each takes. 
 

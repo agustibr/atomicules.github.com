@@ -33,7 +33,7 @@ transaction = (row) ->
 			qif += "D"+row.children[0].innerHTML.trim()+"<br />"
 			qif += "P"+row.children[1].innerHTML.trim()+"<br />"
 			#Then need transaction amount
-			unless row.children[2].innerHTML.trim() is "&nbsp;"
+			unless row.children[2].innerHTML.trim() is ":&nbsp;"
 				qif += "T"+row.children[2].innerHTML.trim().substring(1)+"<br />"
 			else 
 				qif += "T-"+row.children[3].innerHTML.trim().substring(1)+"<br />"

@@ -8,7 +8,7 @@ categories:
 ---
 <p>
 
-As we already know it can be done (Search Final Cut Express part of Apple Discussions for "iDive"), but here&apos;s how to do it. The good news it&apos;s pretty simple.
+As we already know it can be done (Search Final Cut Express part of Apple Discussions for "iDive"), but here's how to do it. The good news it's pretty simple.
 
 </p>
 
@@ -18,7 +18,7 @@ As we already know it can be done (Search Final Cut Express part of Apple Discus
 
 <p>
 
-You will need a pen and paper batch capture list and a tool for calculating frame numbers from timecode. You can do it in your head, but I like TC Calculator by Eric Fry. Search versiontracker for it (although his site seems to be down at the moment). If you&apos;ve got Tom Wolsky&apos;s book you&apos;ll have it on the DVD.
+You will need a pen and paper batch capture list and a tool for calculating frame numbers from timecode. You can do it in your head, but I like TC Calculator by Eric Fry. Search versiontracker for it (although his site seems to be down at the moment). If you've got Tom Wolsky's book you'll have it on the DVD.
 
 </p>
 
@@ -38,7 +38,7 @@ Download the <a href="https://gist.github.com/884871" >XML Template</a>. It is a
 
 <p>
 
-When you&apos;ve edited the file to suit, drag into the browser of FCE, it will pop up a dialog box. Most of this can be left as is. The just Capture Project
+When you've edited the file to suit, drag into the browser of FCE, it will pop up a dialog box. Most of this can be left as is. The just Capture Project
 
 </p>
 
@@ -90,7 +90,7 @@ Most of the bits you need to change are highlighted by *** ***
 
 <li>
 
-***LOG NOTE*** Change to whatever or delete the &lt;logginginfo&gt;&lt;/logginginfo&gt; section out if you don&apos;t want it
+***LOG NOTE*** Change to whatever or delete the &lt;logginginfo&gt;&lt;/logginginfo&gt; section out if you don't want it
 
 </li>
 
@@ -108,13 +108,13 @@ Most of the bits you need to change are highlighted by *** ***
 
 <li>
 
-&lt;string&gt;&lt;/string&gt; specifies the starting timecode of the clip. Note that if you are using NTSC and dropped frame timecode then you need to use a semi-colon in the timecode, i.e. 00:00:00;00. If it&apos;s dropped frame then you should add &lt;displayformat&gt;DF&lt;/displayformat&gt; inbetween the &lt;timecode&gt;&lt;/timecode&gt; element
+&lt;string&gt;&lt;/string&gt; specifies the starting timecode of the clip. Note that if you are using NTSC and dropped frame timecode then you need to use a semi-colon in the timecode, i.e. 00:00:00;00. If it's dropped frame then you should add &lt;displayformat&gt;DF&lt;/displayformat&gt; inbetween the &lt;timecode&gt;&lt;/timecode&gt; element
 
 <br />
 
 
 
-&lt;frame&gt;&lt;/frame&gt; This SHOULD NOT be required as well as the &lt;string&gt;&lt;/string&gt; element since it is duplicate information, but for me it would not work without it. FCE would rewind to the start of the tape, sit there and moan about insufficient pre-roll for timecode. So I suggest putting it in. Note it doesn&apos;t even have to be the right value, FCE will warn you of a mismatch, take the &lt;string&gt;&lt;/string&gt; value and still work. The WIERDNESS of FC.
+&lt;frame&gt;&lt;/frame&gt; This SHOULD NOT be required as well as the &lt;string&gt;&lt;/string&gt; element since it is duplicate information, but for me it would not work without it. FCE would rewind to the start of the tape, sit there and moan about insufficient pre-roll for timecode. So I suggest putting it in. Note it doesn't even have to be the right value, FCE will warn you of a mismatch, take the &lt;string&gt;&lt;/string&gt; value and still work. The WIERDNESS of FC.
 
 </li>
 
@@ -152,7 +152,7 @@ NOTES:
 
 <p>
 
-Notes on editing the XML files. Just use Apple&apos;s TextEdit but ensure you save as UTF-8.
+Notes on editing the XML files. Just use Apple's TextEdit but ensure you save as UTF-8.
 
 </p>
 
@@ -160,7 +160,7 @@ Notes on editing the XML files. Just use Apple&apos;s TextEdit but ensure you sa
 
 <p>
 
-WARNING to BBEDIT users: For some reason FCE/FCP is very quirky with text files and even though BBEDIT can control the text format (encodings, line endings/breaks, etc) better than TextEdit I have not been able to get a bbedit created file to work. When importing to FCE I get a File Error: File Unknown. I&apos;ve been into contact with Barebones about this and they are a bit stumped as well. The only difference they could spot between a bbedit created file and a TextEdit one was the line break encoding. I&apos;ve tried every setting in BBEDIT and can&apos;t get it to work even though in thoery the file is correct. So the work around is to edit in bbedit, then open with text edit and click save, before importing into FCE.
+WARNING to BBEDIT users: For some reason FCE/FCP is very quirky with text files and even though BBEDIT can control the text format (encodings, line endings/breaks, etc) better than TextEdit I have not been able to get a bbedit created file to work. When importing to FCE I get a File Error: File Unknown. I've been into contact with Barebones about this and they are a bit stumped as well. The only difference they could spot between a bbedit created file and a TextEdit one was the line break encoding. I've tried every setting in BBEDIT and can't get it to work even though in thoery the file is correct. So the work around is to edit in bbedit, then open with text edit and click save, before importing into FCE.
 
 </p>
 

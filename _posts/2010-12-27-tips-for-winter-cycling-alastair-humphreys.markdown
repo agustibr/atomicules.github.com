@@ -9,6 +9,6 @@ content-source: http://markmywords.tumblr.com/post/2070542703/tips-for-winter-cy
 ---
 <p><a href="http://markmywords.tumblr.com/post/2070542703/tips-for-winter-cycling-alastair-humphreys" class="tumblr_blog">markmywords</a>:</p>
 
-<blockquote><p>This guy is barmy&#8230; but it just goes to show you can cycle all winter with the right gear.</p></blockquote>
+<blockquote><p>This guy is barmy… but it just goes to show you can cycle all winter with the right gear.</p></blockquote>
 
 <p>Wow, at least my commute isn't that cold.</p>

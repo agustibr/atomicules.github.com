@@ -15,7 +15,7 @@ Falling foul of the "better name than the music" thing. Because that is a great 
 
 ## [Mac Miller](http://www.guardian.co.uk/music/2011/may/12/new-band-mac-miller)
 
-That review isn't for a specific album, seeing as at the time of it, his official debut album wasn't out. But it seems he has a couple of mixtapes knocking about so I gave K.I.D.S (Kicking Incredibly Dope Shit) a whirl. By a far margin the standout track is Nikes On My Feet (which also gets a mention in the Guardian review, although I'm not sure it in such a favourable light). I can't say I'm that fussed for anything else on this album (Kool Aid & frozen Pizza is slightly better than everything else), but perhaps I'll have to give Knock Knock a whirl and decided from there whether it's worth listening to anything else.
+That review isn't for a specific album, seeing as at the time of it, his official debut album wasn't out. But it seems he has a couple of mixtapes knocking about so I gave K.I.D.S (Kicking Incredibly Dope Shit) a whirl. By a far margin the standout track is Nikes On My Feet (which also gets a mention in the Guardian review, although I'm not sure it in such a favourable light). I can't say I'm that fussed for anything else on this album (Kool Aid &amp; frozen Pizza is slightly better than everything else), but perhaps I'll have to give Knock Knock a whirl and decided from there whether it's worth listening to anything else.
 
 ## [Computer Magic](http://www.guardian.co.uk/music/2011/jun/09/new-band-computer-magic)
 
@@ -33,6 +33,6 @@ They are right, it's not cool. It's always dangerous having negative connotation
 
 Friendly Fires are one of those bands that I thought I should get around to listening to, but turn out to be one I'm not so bothered that it took me a long time to. It's non-offensive. You can listen to it in the background and it won't annoy you, but it is bloody boring if you pay attention. Only Hawaiian Air is any good and they make you wait right until the end of the album for that; at least the days of tapes and LPs are gone and you can just skip to that track.
 
-## [Azari & III - Azari & III](http://www.thelineofbestfit.com/2011/08/azari-iii-azari-iii/)
+## [Azari &amp; III - Azari &amp; III](http://www.thelineofbestfit.com/2011/08/azari-iii-azari-iii/)
 
 Although a late 80s/early 90s electronica vibe (and that seems to be my thing - some how) this album as a whole is not quite for me. I'm in agreement with the review: Reckless (With Your Love) is the stand-out (amazing) and Manic the close second. I reckon there must be some good remixes of those tracks knocking about... And I'm off to look for them... (In a bit). 
