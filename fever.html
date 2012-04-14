@@ -13,12 +13,12 @@
 <script type="text/javascript">
 
 jQuery(function() {
-
-    jQuery.getFeed({
-        url: 'http://fever.i5m.co.uk/?rss=saved',
+	var html = '<p>My <a href="http://feedafever.com/">Fever</a> install seems to be down right now :-(</p>';
+	jQuery.getFeed({
+		url: 'http://fever.i5m.co.uk/?rss=saved',
         success: function(feed) {
-        
-            var html = '';
+		
+			html = '';
             
             for(var i = 0; i < feed.items.length && i < 10; i++) {
             
@@ -48,9 +48,10 @@ jQuery(function() {
 
 			html += '<p>These are my ten most recent shared items from <a href="http://feedafever.com/">Fever</a>, for more subscribe to the <a href="http://fever.i5m.co.uk/?rss=saved">feed</a> of this page.</p>';
             
-            jQuery('#result').append(html);
-        }    
-    });
+		}
+
+	});
+	jQuery('#result').append(html);
 });
 
 </script>
