@@ -11,9 +11,10 @@
 		<script type="text/javascript" src="scripts/jquery.jfeed.js"></script>
 
 <script type="text/javascript">
-
+	
+var html = '<p>This should be the ten most recent shared items from my <a href="http://feedafever.com/">Fever</a> install, but it seems to be down right now :-( (Either that or you too are stuck behind a godawful proxy that blocks it like I am at work).</p>';
 jQuery(function() {
-	var html = '<p>This should be the ten most recent shared items from my <a href="http://feedafever.com/">Fever</a> install, but it seems to be down right now :-(</p>';
+	
 	jQuery.getFeed({
 		url: 'http://fever.i5m.co.uk/?rss=saved',
         success: function(feed) {
@@ -51,7 +52,9 @@ jQuery(function() {
 		}
 
 	});
-	jQuery('#result').append(html);
+	jQuery('#result').ajaxComplete(function() {
+			jQuery(this).append(html);
+	})
 });
 
 </script>
