@@ -7,7 +7,7 @@ categories:
 ---
 ...should not have caused this much trouble:
 
-- Cycling home I hear this load "Ping!" and wondered what on earth had happened, but couldn't feel or see anything wrong.
+- Cycling home I hear this loud "Ping!" and wondered what on earth had happened, but couldn't feel or see anything wrong.
 - Then I looked down and noticed my rear wheel wasn't running true and so knew it was a broken spoke. Gutted, but at least I could get home.
 - A few miles later another "Ping!" (this must be the sound of the head of the spokes bouncing off the plastic guard at the back of the cassette - I don't have one on my fixed gear so the sound is much more subtle on that). I've never had one go straight after the other like that. 
 - The wheel began to rub since it was out of true so I used the quick release on the rear brake to open it up and carried on.
