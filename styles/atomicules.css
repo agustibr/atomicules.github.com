@@ -345,7 +345,7 @@ article#archive li>ul li time {
 
 article#archive li>ul li:hover time {
 	display: block;
-	font-size: 7.5em;
+	font-size: 5.5em;
 	top: 0px;
 	left: 0px;
 }
