@@ -34,7 +34,7 @@ dispatch "tag" = tag
 dispatch "check" = check
 
 tagprefix = "film:filename="
-)
+
 main = do
 	files <- liftM (filter (`notElem` [".", ".."])) (getDirectoryContents ".")
 	(command:_) <- getArgs
