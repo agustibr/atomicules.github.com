@@ -44,7 +44,7 @@ tag files =
 	mapM_ (\file -> rawSystem "exiv2" ["-M", "add Iptc.Application2.Keywords String "++tagprefix++file, file]) files
 	
 check files = 
-	mapM_  (\file -> rawSystem "exiv2" $ ["-P", "I"]++[file]) files
+	mapM_ (\file -> rawSystem "exiv2" $ ["-P", "I"]++[file]) files
 
 {% endhighlight %}
 
