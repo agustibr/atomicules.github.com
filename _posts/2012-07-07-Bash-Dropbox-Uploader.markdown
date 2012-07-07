@@ -14,7 +14,7 @@ So thanks to the above tool, a simple bash oneliner uploaded everything as desir
 
 {% highlight bash %}
 find . -type f -exec /path/to/dropbox_uploader.sh upload {} "Documents/"{} \;
-{% end highlight %}
+{% endhighlight %}
 
 This gets a recursive list of all the files in the current directory and below and for each of them executes the `dropbox_uploader` script. The `{}` characters get replaced with the result from the find command, i.e. the path to the file from the current directory. The `"Documents/{}"` bit is the target path on Dropbox, i.e. the same relative path as I have locally, but in the Documents folder I have on Dropbox.
 
