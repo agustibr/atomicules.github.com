@@ -48,7 +48,23 @@ I've switched from Google Calendar to using [Remind](http://www.roaringpenguin.c
 
 ##Feed reading
 
-I've had a bit of flakiness with my hosting for my [Fever](http://feedafever.com/) install this year and it prompted me to go and look at command line feed readers. [Canto](http://codezen.org/canto/) and [Newsbeuter](http://www.newsbeuter.org/) are both nice. I prefer the UI of Canto, but it is much, much slower and at the time that was on my work machine, so I'm guessing it would be unusable on my G4. However, Canto is the one I got closest to running on my Powerbook, although unfortunately I seem to have neglected to make any notes about what the final issue was that I came across (I think a platform Python incompatibility). With Newsbeuter I couldn't get beyond STFL and since my Fever install started working again I never [persisted with trying to get it working](http://pinboard.in/u:atomicules/b:4f4fa82e045f). So at the moment, I'm still web based for feed reading.
+I've had a bit of flakiness with my hosting for my [Fever](http://feedafever.com/) install this year and it prompted me to go and look at command line feed readers. [Canto](http://codezen.org/canto/) and [Newsbeuter](http://www.newsbeuter.org/) are both nice. 
+
+###Canto
+
+I prefer the UI of Canto, but it is much, much slower and at the time that was on my work machine, so I'm guessing it would be unusable on my G4. However, Canto is the one I got closest to running on my Powerbook, but the [lack of select.poll() on OSX](http://stackoverflow.com/a/5124744/208793) kills it - I've checked and Macports Python 2.7.3 definitely doesn't support it. 
+
+###Newsbeuter
+
+With Newsbeuter I couldn't even get  beyond the STFL requirement. I've tried a [couple](http://www.rocklinux.net/pipermail/stfl/2011-February/000126.html) of [patches](https://gist.github.com/1556181) and both 0.21 and 0.22, but `make` always bombs out with:
+
+	Undefined symbols:
+	  "_main", referenced from:
+		  start in crt1.10.5.o
+	ld: symbol(s) not found
+	collect2: ld returned 1 exit status
+
+and since my Fever install started working again I'm sticking with a web based feed reader.
 
 ##File Browser/Manager
 
