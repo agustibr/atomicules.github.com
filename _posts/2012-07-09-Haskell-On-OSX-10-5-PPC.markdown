@@ -22,16 +22,13 @@ Some brief notes on how I got Haskell up and running on OSX 10.5 PPC. They might
 
 	These were actually found with a bit of trial and error: I started with the most recent versions and tried to build them and any new dependencies since the Real World Haskell article, and when I hit a problem I downgraded (which also meant downgrading other packages I'd already installed because of inter-dependencies). I just [installed them all in my home](http://book.realworldhaskell.org/read/installing-ghc-and-haskell-libraries.html#install.pkg.manual) directory.
 3. After getting `cabal-install` built and installed I thought it would be plain sailing installing the rest of the packages I needed for my [HaskerDeux]({{ site.baseurl }}2012/07/04/HaskerDeux.html) app. And it was -  once I learnt to point it in the direction of my Macports libraries, etc: 
-	{% highlight bash %}
-	cabal install 'split' --extra-include-dirs=/macports/include --extra-lib-dirs=/macports/lib
-	{% endhighlight %}
-
+	
+		cabal install 'split' --extra-include-dirs=/macports/include --extra-lib-dirs=/macports/lib
+	
 	You can also install specific versions with Cabal, like so:
-
-	{% highlight bash %}
-	cabal install 'json-0.4.4'
-	{% endhighlight %}
-
+	
+		cabal install 'json-0.4.4'
+	
 	Older versions of Network.Curl and Text.JSON  seem to work fine with HaskerDeux (I'm not exactly pushing the boundaries). These are the ones I installed:
 	- [curl-1.3.5](http://hackage.haskell.org/package/curl-1.3.5)
 	- [json-0.4.4](http://hackage.haskell.org/package/json-0.4.4)
