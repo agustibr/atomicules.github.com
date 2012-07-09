@@ -49,3 +49,9 @@ I've switched from Google Calendar to using [Remind](http://www.roaringpenguin.c
 ##Feed reading
 
 I've had a bit of flakiness with my hosting for my [Fever](http://feedafever.com/) install this year and it prompted me to go and look at command line feed readers. [Canto](http://codezen.org/canto/) and [Newsbeuter](http://www.newsbeuter.org/) are both nice. I prefer the UI of Canto, but it is much, much slower and at the time that was on my work machine, so I'm guessing it would be unusable on my G4. However, Canto is the one I got closest to running on my Powerbook, although unfortunately I seem to have neglected to make any notes about what the final issue was that I came across (I think a platform Python incompatibility). With Newsbeuter I couldn't get beyond STFL and since my Fever install started working again I never [persisted with trying to get it working](http://pinboard.in/u:atomicules/b:4f4fa82e045f). So at the moment, I'm still web based for feed reading.
+
+##File Browser/Manager
+
+Almost forgot: [Midnight Commander](http://www.midnight-commander.org/). Although, actually I'm unsold on it's usefulness. Unfortunately the Macports version doesn't seem to have mouse support and driving it purely by keyboard, well - I might as well just do my file management in the shell.
+
+I probably use it more at work as it is much lighter weight than Nautilus, and in Linux the mouse support is fine.
