@@ -44,7 +44,7 @@ I've been [using Twitvim for a little awhile now](https://twitter.com/#!/atomicu
 
 ##Calendars
 
-I've switched from Google Calendar to using [Remind](http://www.roaringpenguin.com/products/remind). It works well enough for me. I like the idea of having a plain text file for storing and editing calendar entries. And the simple calendar outout (`-c`) is good enough for me; I don't really feel the need to use [Wyrd](http://pessimization.com/software/wyrd/) as a UI, apart from viewing previous months as that doesn't seem possible with Remind - hmm, I can feel some hacking coming on.
+I've switched from Google Calendar to using [Remind](http://www.roaringpenguin.com/products/remind). It works well enough for me. I like the idea of having a plain text file for storing and editing calendar entries. And the simple calendar outout (`-c`) is good enough for me; I don't really feel the need to use [Wyrd](http://pessimization.com/software/wyrd/) as a UI<s>, apart from viewing previous months as that doesn't seem possible with Remind - hmm, I can feel some hacking coming on,</s>as you can view any abitary month with `remind -c .reminders May 2008`, for example, you can also do `remind -c2 .reminders May 2008` which would get you the months of May and June in 2008. I would still like to be able to do `remind -c-1` or similar to view backwards, but since my C skills are pretty crap (I've looked at the source code and can't understand it right off the bat) I guess hacking this in will be very low priority for me.
 
 ##Feed reading
 
