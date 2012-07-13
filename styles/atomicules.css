@@ -1,5 +1,5 @@
 @import url("pygments.css") screen;
-@import url(http://fonts.googleapis.com/css?family=Damion|Trocchi|Muli);
+@import url(http://fonts.googleapis.com/css?family=Damion|Trocchi|Muli:300);
 
 /*whilst editing 
 body, section, aside, footer {
@@ -25,6 +25,7 @@ html {
 body {
 	font-family: Muli, 'Lucida Grande', 'Gill Sans MT', sans-serif;
 	font-size: 1em;
+	font-weight: 300;
 	margin: 0px;
 	padding: 0px;
 	background: #fff;
@@ -49,6 +50,7 @@ header>hgroup h1 {
 	font-family: 'Damion', cursive;
 	font-size: 8em;
 	color: #fff;
+	font-weight: 400;
 }
 header>hgroup h2, header>hgroup h1 a, header>hgroup h2 a, header nav a, footer, footer a {
 	color: #fff;
