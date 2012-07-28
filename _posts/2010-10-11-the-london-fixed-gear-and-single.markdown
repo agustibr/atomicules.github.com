@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_la4iti0qan1qdhcbyo1_500.jpg
 click-through: http://www.flickr.com/photos/buro9/5069348456/in/set-72157625011133209/
 categories: 
-- bicycles
+- pushing
 content-source: http://www.flickr.com/photos/buro9/5069348456/in/set-72157625011133209/
 ---
 The [London Fixed Gear and Single Speed](http://www.lfgss.com) photo montage from their stand at the Cycle Show 2010, Earl's Court.

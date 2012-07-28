@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Touching Toes
 categories: 
-- bicycles
+- pushing
 ---
 I've never been very supple. I can't ever remember being able to touch my toes as a kid, the nearest I could ever get was half way to two thirds down my shins, and this even though I was pretty sporty as a kid. I just kind of thought that was me.
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Marigolds and Carrier Bags
 categories:
-- bicycles
+- pushing
 ---
 Marigolds work: Carrier Bags don't.
 

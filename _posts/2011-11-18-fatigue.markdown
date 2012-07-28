@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Fatigue
 categories: 
-- bicycles
+- pushing
 ---
 Not of me, of my handlebars. Didn't really think this was possible, but this week the left hand drop of my handlebars cracked all the way round and was only really held on by the ["tape"]({{ site.baseurl }}2011/08/11/free-handlebar-tape.html). It cracked so much I couldn't even do a chop and flop job and convert them to bullhorns.
 

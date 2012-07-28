@@ -3,7 +3,7 @@ layout: page
 type: text
 title: You just can't carry a car through snow
 categories: 
-- bicycles
+- pushing
 ---
 Meant to write this with the last post, but as far as bike vs car vs snow goes, the bike has done well over the last few weeks. When the snow has drifted across the farm track even a 4x4 is no use. It's a tractor or nowt. Well not nowt, legs and carrying the bike has worked well. And when the car battery died because of the cold, the bike was used to get to the garage to pick up a new one. Same as getting to the local village shop when the car was out of action, it'd be a few hours walk, but cycling is not so bad. 
 

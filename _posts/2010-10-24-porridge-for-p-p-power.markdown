@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Porridge for P-p-power!
 categories: 
-- bicycles
+- pushing
 ---
 Whilst on a food related note. A lot of folk seem to have hydration issues cycling, and even on my 19 mile commute would take in fluids. Me, it would just make me need the loo even more than I do; If I ever do any longer distance riding I'm avoiding fluids as much as possible otherwise I'd be spending all my time off the bike. 
 

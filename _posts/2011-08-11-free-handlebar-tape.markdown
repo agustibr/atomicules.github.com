@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Free Handlebar Tape
 categories: 
-- bicycles
+- pushing
 ---
 The [el-cheapo bar tape](http://www.sjscycles.co.uk/velox-cotton-cloth-adhesive-handlebar-tape-black-prod12629/) I put on last year was so worn that my handlebars consisted of more electrical tape (patching up the "holes") than original bar tape. However, even though bar tape is considered one of the cheapest upgrades there was no money in the bank for any more so I had a brainwave and used an old inner tube.
 

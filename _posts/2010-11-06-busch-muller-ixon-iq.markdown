@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Busch &amp; Müller Ixon IQ
 categories: 
-- bicycles
+- pushing
 ---
 Last year I somehow got by on a combination of a Cateye Opticube, a £7 Bell Dawn Patrol light from Asda and the illumination provided by cars passing me (mainly that). But then again I only had about 3 miles of unlit roads. 
 

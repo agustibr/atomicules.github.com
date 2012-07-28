@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Of Custard
 categories: 
-- bicycles
+- pushing
 ---
 I like the idea of having a theme to a blog and thought custard and cycling would go hand in hand (humour me) and was honestly intending to post some custard related stuff; perhaps pictures of the sumptuous puddings we've been having of late. But the problem is, as soon as they are made they are eaten - I do not have the patience to get a camera and grab a shot. 
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Winter checklist
 categories: 
-- bicycles
+- pushing
 ---
 There's currently no sign of snow. But a month or so ago, when it could have been just around the corner for all I knew, my winter cycling checklist looked something like this (and so [I was a bit worried]({{ site.baseurl }}2011/07/17/fear-of-big-slides.html)):
 

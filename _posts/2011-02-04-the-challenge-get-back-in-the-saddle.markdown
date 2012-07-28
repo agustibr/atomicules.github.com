@@ -4,7 +4,7 @@ type: link
 title: "The challenge: get back in the saddle"
 link: http://alancolville.org/2011/02/in-the-saddle/
 categories: 
-- bicycles
+- pushing
 content-source: http://twitter.com/Hicksdesign/status/33283970959556608
 ---
 Makes for scary reading. I don't know if I agree with the hi-vis and

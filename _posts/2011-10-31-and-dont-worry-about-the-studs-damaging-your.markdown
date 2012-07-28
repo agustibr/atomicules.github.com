@@ -4,7 +4,7 @@ type: quote
 title: 
 quote: And don't worry about the studs damaging your inner tubes. They won't. The tires are carefully designed to prevent the studs from puncturing the tube... As tires age, the casing deteriorates, and then the studs can push through the casing...
 categories: 
-- bicycles
+- pushing
 content-source: http://peterwhitecycles.com/studdedtires.asp
 ---
 <a href="http://peterwhitecycles.com/studdedtires.asp">Studded Bicycle Tires</a>

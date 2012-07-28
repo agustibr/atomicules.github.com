@@ -5,7 +5,7 @@ title: New Bike
 photo: images/polaroid-mar-2012-2.jpg
 categories: 
 - pictures
-- bicycles
+- pushing
 ---
 I'll use this test shot (Yay, [rollers haven't got stuck open]({{ site.baseurl }}2012/03/05/More-Neigh.html)) to mostly waffle on about my new bike (not that you can really see or tell from this photo; it's the one on the left).
 

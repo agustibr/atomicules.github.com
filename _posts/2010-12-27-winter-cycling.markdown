@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Winter Cycling
 categories: 
-- bicycles
+- pushing
 ---
 Who knows if there will still be snow by the time I finish writing this. I don't know, I thought being off for Christmas would give me more time, not less, for getting some blog posts done.
 

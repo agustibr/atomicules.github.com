@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Some cycling myths
 categories: 
-- bicycles
+- pushing
 ---
 To go hand in hand with my last post celebrating my crazy cycling anniversary I thought I'd put together some of my opinions on cycling myths. There are some things you don't _need_, even if they would be great to have
 

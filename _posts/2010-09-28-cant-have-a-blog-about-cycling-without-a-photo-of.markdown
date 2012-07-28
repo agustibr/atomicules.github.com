@@ -4,7 +4,7 @@ type: photo
 title: 
 photo: images/tumblr_l9ffr9pzWy1qdhcbyo1_500.jpg
 categories: 
-- bicycles
+- pushing
 ---
 Can't have a blog about cycling without a photo of the bike, can you? So here it is. This is what it [looked like](http://www.flickr.com/photos/i-5-m/4011639393/) when it was pretty much as new, about a year ago.
 

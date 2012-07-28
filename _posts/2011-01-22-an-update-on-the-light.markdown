@@ -3,7 +3,7 @@ layout: page
 type: text
 title: An Update on the Light
 categories: 
-- bicycles
+- pushing
 ---
 The only negatives I've found with [this light]({{ site.baseurl }}2010/11/06/busch-muller-ixon-iq.html) are the clear plastic window over the led indicator light and the plastic latch used to hold the case shut.
 
