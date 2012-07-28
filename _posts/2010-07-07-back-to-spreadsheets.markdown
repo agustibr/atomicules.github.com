@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Back to Spreadsheets?
 categories: 
-- code
+- programming
 ---
 [Wesabe are shutting down](http://www.wesabe.com). Which is disappointing, more than annoying; I feel worse for the guys who ran it. Credit to them though, and confirming my belief that I made the right choice with them (even if they are closing):
 

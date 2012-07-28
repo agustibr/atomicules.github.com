@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Java, HTMLUnit and catching setTimeout exceptions
 categories: 
-- code
+- programming
 ---
 Colour as bleeding obvious, but in [HTMLUnit](http://htmlunit.sourceforge.net/) I could not figure out how to "[just use WebClient.setTimeout(int)](http://sourceforge.net/mailarchive/message.php?msg_id=4884C3E5.9090309@yahoo.fr)".
 

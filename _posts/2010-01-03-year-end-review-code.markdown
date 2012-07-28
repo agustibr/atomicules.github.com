@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Year End Review - Code
 categories: 
-- code
+- programming
 ---
 Like photography, I've ended the year better skilled than I started it. Which feels good. But in both subjects I'd still consider myself a beginner (or always in Beta!)
 

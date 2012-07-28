@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Looping Through Figures, Sweave vs Tikz (pgfSweave)
 categories: 
-- code
+- programming
 ---
 Almost as soon as you start using R you hear about [Sweave](http://www.statistik.lmu.de/~leisch/Sweave/) (probably because it is included with the base install of R) which allows you to embed R code within LaTeX documents. However, I placed learning it on the back-burner for about a year so I could just spend time getting my head around R (although how I've managed to avoid LaTeX until now, considering my background and the amount of technical reports I've written over the years, is another matter).
 

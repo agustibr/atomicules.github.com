@@ -5,7 +5,7 @@ title: TenFourFox
 link: http://www.floodgap.com/software/tenfourfox/
 date: 2011-04-18 14:20:00 UTC
 categories: 
-- code
+- programming
 ---
 On a PPC web browser note, came across this recently. I'm very grateful of developers like this (also [Camino](http://www.caminobrowser.org/), [Itsy](http://mowglii.com/itsy/) and [Sparrow](http://sparrowmailapp.com/) spring to mind) who still support Leopard and PPC Macs. 
 

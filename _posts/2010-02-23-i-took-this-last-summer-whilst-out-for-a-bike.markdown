@@ -6,7 +6,7 @@ photo: http://farm5.static.flickr.com/4044/4369256670_9d5baf0a0e.jpg
 click-through: http://www.flickr.com/photos/i-5-m/4369256670/in/set-72157623338750353/
 categories: 
 
-- code
+- programming
 - pictures
 - pushing
 ---

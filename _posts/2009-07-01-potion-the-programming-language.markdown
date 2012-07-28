@@ -4,7 +4,7 @@ type: link
 title: Potion - The Programming Language
 link: http://hackety.org/potion/
 categories: 
-- code
+- programming
 ---
 So this is what has been keeping [Why](http://whytheluckystiff.net/) busy. Suppose it stands to reason he'd finally write his own language.
 

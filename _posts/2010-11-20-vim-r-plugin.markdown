@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Vim R Plugin
 categories: 
-- code
+- programming
 ---
 I am really growing to love [R](http://www.r-project.org/). I'd dabbled with it briefly awhile back, but owing to a change of role at work I now have cause to use it a lot more (certainly beats Minitab).
 

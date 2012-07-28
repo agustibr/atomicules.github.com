@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Backup coming to Tumblr
 categories: 
-- code
+- programming
 ---
 <p><a href="http://www.marco.org/214743206">marco</a>:</p>
 

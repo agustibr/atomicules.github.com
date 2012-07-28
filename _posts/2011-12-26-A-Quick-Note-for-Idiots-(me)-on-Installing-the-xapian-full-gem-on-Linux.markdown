@@ -3,7 +3,7 @@ layout: page
 type: text
 title: A Quick Note for Idiots (me) on Installing the xapian-full gem on Linux
 categories: 
-- code
+- programming
 ---
 
 

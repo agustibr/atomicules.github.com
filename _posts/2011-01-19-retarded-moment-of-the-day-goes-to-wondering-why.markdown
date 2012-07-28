@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_lf9u1sfalL1qzcagp.jpg
 click-through: https://github.com/atomicules/Pinboard-Tools-for-Google-Chrome
 categories: 
-- code
+- programming
 ---
 Retarded moment of the day goes to: Wondering why I couldn't get [content scripts](http://code.google.com/chrome/extensions/content_scripts.html) to load when trying to pass page content to an extension. I tried [all](http://code.google.com/chrome/extensions/messaging.html) [kinds](http://groups.google.com/group/chromium-extensions/browse_thread/thread/eab847f0a32ec25c/61ef3f54ca14c98c?pli=1) [of](http://stackoverflow.com/questions/1964225/accessing-current-tab-dom-object-from-popup-html) [things](http://stackoverflow.com/questions/2914973/how-to-grab-data-from-webpage-in-chrome-and-output-into-chrome-extension-popup). Reloaded the extension a hundred times. Then it finally dawned on me: the content script is for the page (duh!) not the extension. Reloaded the tab and hey presto. &lt;Incredibly ashamed face&gt;.
 

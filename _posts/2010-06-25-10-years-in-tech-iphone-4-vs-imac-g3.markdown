@@ -4,7 +4,7 @@ type: link
 title: '10 Years in Tech: iPhone 4 vs iMac G3'
 link: http://www.macstories.net/news/2000-imac-compared-to-the-iphone-4/
 categories: 
-- code
+- programming
 ---
 This is interesting. Especially to me, since I owned an iMac G3*; of slightly lower spec than the one in the article as well. I loved that sage iMac (and the iSub I had with it), it was the first time I realised you could smile just by sitting in front of a computer. I'd (obviously) never experienced that will the beige Windows boxes I'd used before; almost with a SGI machine I'd used at work. It's not just the comparison of specs that is interesting: the iPhone costs half of what the iMac cost me; which is probably still the single most expensive item I've bought myself. 
 

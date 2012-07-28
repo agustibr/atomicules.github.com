@@ -3,7 +3,7 @@ layout: page
 type: text
 title: My 'Listening to New Music' Goal of 2010
 categories: 
-- code
+- programming
 - owtelse
 ---
 I'll mostly skip the end of year review thing this time around as otherwise I will be unable to prevent a moan of truly EPIC proportions. I'll just let out a little sigh and crack on with this:

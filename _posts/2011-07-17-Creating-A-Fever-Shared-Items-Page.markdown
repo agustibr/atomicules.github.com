@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Creating a (Feeda)Fever Shared Items Page
 categories: 
-- code
+- programming
 ---
 In a vain attempt to slightly de-googlefy my life, and also to regain control over my RSS subscriptions, I switched to [Fever](http://feedafever.com/) from [Google Reader](http://reader.google.com/) a little while ago.
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Github and Jekyll
 categories: 
-- code
+- programming
 ---
 The geek side of me is really tempted to desert Tumblr and move to [Github Pages](http://pages.github.com) and [Jekyll](http://wiki.github.com/mojombo/jekyll). Reminds me of the time I used [Nanoblogger](http://nanoblogger.sourceforge.net/).  
 

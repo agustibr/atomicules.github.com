@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Vim
 categories: 
-- code
+- programming
 ---
 (because everyone has got to have their own <a href="http://www.vim.org/">Vim</a> post)
 

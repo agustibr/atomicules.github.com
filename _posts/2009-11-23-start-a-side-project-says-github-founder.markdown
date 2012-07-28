@@ -4,7 +4,7 @@ type: link
 title: Start a side project, says GitHub founder
 link: http://gist.github.com/6443
 categories: 
-- code
+- programming
 ---
 <p><a href="http://dhotson.tumblr.com/post/227307882/start-a-side-project-says-github-founder">dhotson</a>:</p>
 

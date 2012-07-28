@@ -3,7 +3,7 @@ layout: page
 type: text
 title: To the Command Line, Batman!
 categories: 
-- code
+- programming
 ---
 For reasons that I am unable to properly explain (to myself, let alone others), over the past few months I have been unable to resist the compulsion to investigate and set-up command line <s>mail</s> clients (in general). 
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: A few notes on using Jekyll (and Liquid) 
 categories: 
-- code
+- programming
 ---
 (since that's what I'm now using)
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Invert a subset selection when using grepl in R
 categories: 
-- code
+- programming
 ---
 One of those embarrassing Doh! moments to share with the world.
 

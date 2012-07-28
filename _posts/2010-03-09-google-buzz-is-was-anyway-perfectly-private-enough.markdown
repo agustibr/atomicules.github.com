@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Google Buzz Is (was anyway) Perfectly Private Enough, Thankyou 
 categories: 
-- code
+- programming
 ---
 I've missed the boat entirely with this as Google have addressed some of the 'issues' now, but anyway I started writing the post so I'll finish it. There were basically three points I wanted to make:
 

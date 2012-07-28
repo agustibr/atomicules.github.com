@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Some Ubuntu 10.04 Notes...
 categories: 
-- code
+- programming
 ---
 ...due to my [unexpected](http://twitter.com/atomicules/status/13262677183) [Ubuntu](http://twitter.com/i5m/status/13262725543) [trial](http://twitter.com/atomicules/status/13377189047) at work.
 

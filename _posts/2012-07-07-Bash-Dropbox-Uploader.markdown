@@ -4,7 +4,7 @@ type: link
 title: Bash Dropbox Uploader
 link: http://www.andreafabrizi.it/?dropbox_uploader
 categories: 
-- code
+- programming
 ---
 This is mega handy! It only needs Bash and cURL. 
 

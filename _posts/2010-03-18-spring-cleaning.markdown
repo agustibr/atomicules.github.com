@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Spring Cleaning
 categories: 
-- code
+- programming
 - site
 
 - pictures

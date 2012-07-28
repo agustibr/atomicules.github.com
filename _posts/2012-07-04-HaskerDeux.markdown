@@ -4,7 +4,7 @@ type: link
 title: HaskerDeux
 link: https://github.com/atomicules/HaskerDeux
 categories: 
-- code
+- programming
 ---
 My second little command line project of the year. This has taken me months because I just don't have a lot of spare time anymore and it is very difficult to learn new languages and code anything when you keep having to dip in and out for a few minutes at a time separated by weeks apart. I suppose, when looked at that way, the fact that I manage to get anything like this done is a remarkable achievement. 
 

@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_ktut57zrWg1qz4ueh.jpg
 click-through: http://www.gesteves.com/experiments/starwars.html
 categories: 
-- code
+- programming
 
 - pictures
 ---

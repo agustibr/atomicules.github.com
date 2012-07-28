@@ -4,7 +4,7 @@ type: link
 title: Bitbucket joins Atlassian
 link: http://blog.bitbucket.org/2010/09/29/bitbucket-joins-atlassian/
 categories: 
-- code
+- programming
 ---
 > All accounts now have unlimited private and public repositories with unlimited storage. You can now get a 5-user private code repository account for free… forever
 

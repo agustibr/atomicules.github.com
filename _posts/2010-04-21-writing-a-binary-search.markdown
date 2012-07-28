@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Writing a Binary Search
 categories: 
-- code
+- programming
 ---
 Or subtitled: Why turn down a chance to completely embarrass myself on the internet?
 

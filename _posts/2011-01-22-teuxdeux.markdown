@@ -3,7 +3,7 @@ layout: page
 type: text
 title: TeuxDeux
 categories: 
-- code
+- programming
 
 - owtelse
 ---

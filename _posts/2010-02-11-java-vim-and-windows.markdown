@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Java, Vim and Windows
 categories: 
-- code
+- programming
 ---
 I've been having a bit of a play about with Java at work and creating a Jabber Bot. It's yet-another-side project of mine, but it is for work and about as legitimate as side projects can get. It's been a nice intro to Java as there are plenty of [examples](http://www.freddyvazquez.com/Simple_XMPP_Jabber_Bot_Java_Smack_API.html) out there and I actually have a real app to produce at the end; I find just doing tutorials gets me no where. 
 

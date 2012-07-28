@@ -6,7 +6,7 @@ photo: images/tumblr_kztsptKzZO1qazfelo1_400.png
 click-through: 
 categories: 
 
-- code
+- programming
 ---
 <p><a href="http://wellplacedpixels.com/post/472982590/mowgliis-itsy" class="tumblr_blog">wellplacedpixels</a>:</p>
 

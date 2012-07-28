@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Github Works
 categories: 
-- code
+- programming
 ---
 I'm fortunate in that I'm not particularly bothered about the underlying [VCS](http://en.wikipedia.org/wiki/Revision_control) I'm using. So I don't have to get into any philosphical arguments about [Git](http://git-scm.com/) vs [Mercurial](http://mercurial.selenic.com/wiki/), [etc](http://bazaar-vcs.org/),  because for my needs, [SVN](http://subversion.tigris.org/) would be fine; I'm not working on any big multi-user projects, I'm just interested in version control for my stuff.
 

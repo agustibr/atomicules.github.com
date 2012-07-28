@@ -4,7 +4,7 @@ type: link
 title: ResophNotes - Quick Notes on Windows
 link: http://www.resoph.com/ResophNotes/Welcome.html
 categories: 
-- code
+- programming
 ---
 I've wanted (I think*) something like this on Windows for awhile: a client that syncs with [Simplenote](http://simplenoteapp.com/). I actually like the look of Simple Software [Notes](http://ufridman.org/notes.html) better (after all, simpler is better), but I can't use it at work because it doesn't include proxy support whereas ResophNotes does.
 

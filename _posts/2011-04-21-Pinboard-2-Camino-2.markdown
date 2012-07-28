@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Pinboard to Camino, Take two
 categories: 
-- code
+- programming
 ---
 I live by the "It's Cool to be Crap" motto (from [R.A.D. magazine](http://www.whenwewasrad.co.uk/) for those that can remember). So to go with my [crap Haskell attempt]({{ site.baseurl }}2011/04/12/Selection-Sort-in-Haskell.html) here's my 2nd crap attempt at a [Pinboard to Camino bookmark importer]({{ site.baseurl }}2011/02/22/pinboard-bookmark-importer-for-camino.html), one that preserves Camino metadata (such as number of visits) rather than simply deleting and replacing all the bookmarks. I still have a long way to go, but I am on the right track (well I think I am). 
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Shoeset
 categories: 
-- code
+- programming
 ---
 A little [Shoes](http://shoes.heroku.com) app that generates tag clouds for a user's chosen set on Flickr.
 

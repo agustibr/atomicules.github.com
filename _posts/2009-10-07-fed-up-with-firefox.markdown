@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Fed up with Firefox
 categories: 
-- code
+- programming
 ---
 I've had enough of Firefox freezing and locking up. I know it's the stupid intranet sites and [IETab](https://addons.mozilla.org/en-US/firefox/addon/1419) that do it, so not strictly the fault of Firefox, but I'm fed up of one tab bringing the whole thing down. So I'm giving [ChromePlus]({{ site.baseurl }}2009/10/05/chrome-with-ietab.html) a proper go. 
 
