@@ -3,8 +3,8 @@ layout: page
 type: text
 title: Film in the Cloud
 categories: 
-- programming
-- pictures
+- program
+- picture
 ---
 After a long hiatus I finally managed to get some films off to be developed which meant I could complete [this set](http://www.flickr.com/photos/i-5-m/sets/72157629646923030/). In the process of sorting those out I realised that I'd completely forgotten about the other films I'd had developed last year which also were not uploaded anywhere yet. And then I recalled the second big problem I have with my photography - not only is there the issue of getting stuff developed in the first place, but then I face just as big a hurdle in getting on the computer to process and upload it. I must have just given up at some point last year, hence completely forgetting about these other films.
 

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Some Notes on Getting Haskell Running on OSX 10.5 PPC
 categories: 
-- programming
+- program
 ---
 Some brief notes on how I got Haskell up and running on OSX 10.5 PPC. They might not be complete as I'm always overly optimistic about my ability to recall and/or write things up promptly.
 

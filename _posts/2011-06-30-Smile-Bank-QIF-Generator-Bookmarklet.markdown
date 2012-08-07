@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Smile.co.uk Bank QIF Generator Bookmarklet
 categories: 
-- programming
+- program
 ---
 Errr... didn't mean to end up doing this <s>today</s> yesterday.
 

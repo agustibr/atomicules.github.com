@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Two Broken Spokes...
 categories:
-- pushing
+- push
 ---
 ...should not have caused this much trouble:
 

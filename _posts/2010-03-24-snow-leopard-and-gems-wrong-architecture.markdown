@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Snow Leopard and Gems 'wrong architecture'
 categories: 
-- programming
+- program
 ---
 Not that I'm on Snow Leopard yet (ever??), but should you get an error such as:
 

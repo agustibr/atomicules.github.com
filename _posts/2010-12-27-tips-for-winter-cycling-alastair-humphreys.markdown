@@ -4,7 +4,7 @@ type: link
 title: "Tips for Winter Cycling: Alastair Humphreys"
 link: http://www.alastairhumphreys.com/2010/11/tips-winter-cycling/
 categories: 
-- pushing
+- push
 content-source: http://markmywords.tumblr.com/post/2070542703/tips-for-winter-cycling-alastair-humphreys
 ---
 <p><a href="http://markmywords.tumblr.com/post/2070542703/tips-for-winter-cycling-alastair-humphreys" class="tumblr_blog">markmywords</a>:</p>

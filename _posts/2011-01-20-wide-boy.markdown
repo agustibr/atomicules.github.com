@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Wide Boy
 categories: 
-- pushing
+- push
 ---
 Although the current mild weather is lulling me into a false sense of security (I'm sure more snow will be here soon), I can't but help turn thoughts towards spring and the day I can take off my winter tyres.
 

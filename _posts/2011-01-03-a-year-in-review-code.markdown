@@ -3,7 +3,7 @@ layout: page
 type: text
 title: A Year in Review... Code
 categories: 
-- programming
+- program
 ---
 I started off the year quite involved with [Shoes](http://blog.shoesrb.com/), but over the year I've become less involved. This is due both to changes at home and changes at work. Coding in general at home is just impossible. I just can't get on the computer for any length of time - even writing this tricky and involves stealing the iPod Touch from my youngest who plays Sonic the Hedgehog obsessively. I can be stepping towards the computer and get called away to sew some buttons on a cardigan, or something else equally unpredictable. I leave earlier from home and get back later from work because of moving further away. So there is just no computing time at home. 
 

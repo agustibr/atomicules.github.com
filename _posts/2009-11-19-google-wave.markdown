@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Google Wave
 categories: 
-- programming
+- program
 ---
 I didn't bother registering interest in this when I first heard about it because I was perhaps a bit too honest when thinking about the option: "Enlist me! I'll report bugs and give feedback (e.g. user surveys)" *. And also because I didn't think there was much chance I'd get in anyway. 
 

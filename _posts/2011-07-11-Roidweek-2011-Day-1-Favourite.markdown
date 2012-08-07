@@ -6,7 +6,7 @@ photo: http://farm7.static.flickr.com/6029/5927081606_9c6d34cdd0.jpg
 click-through: http://www.flickr.com/photos/kevindean/5927081606/
 categories: 
 
-- pictures
+- picture
 ---
 **[Train Tracks - 20110709 - PZ680 - 06_2011 - Scan - img095_72dpi](http://www.flickr.com/photos/kevindean/5927081606/) by [Kevin Dean](http://www.flickr.com/photos/kevindean/).**
 

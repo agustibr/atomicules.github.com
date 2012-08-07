@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Until I can afford Linode
 categories: 
-- programming
+- program
 ---
 I liked this post awhile back about [using an iPad and Linode as a "main" computer](http://yieldthought.com/post/12239282034/swapped-my-macbook-for-an-ipad), especially the Linode bit. I really like the idea of having my computer be a remote one (that'll stop the kids and wife hogging it!) that I can connect to from wherever, and I'm more than happy using command line apps for everything. But since I can afford neither an iPad nor Linode I just filed it away in the depths of my memory under the "if I win the lottery" category.
 

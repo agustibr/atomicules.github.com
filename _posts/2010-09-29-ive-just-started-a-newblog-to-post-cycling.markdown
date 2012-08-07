@@ -4,7 +4,7 @@ type: photo
 title: 
 photo: images/tumblr_l9i2ds5OyG1qzcagp.jpg
 categories: 
-- programming
+- program
 ---
 I've just started a newblog to post [cycling related stuff](http://custardycling.co.uk) to (I briefly thought about re-inventing this blog again due to the recent lapse in anything even remotely related to art or code, but decided against it) and so spent a bit of time setting up a tumblr theme (using this one as a template). I did all the development in Chrome and just assumed that nowadays if it worked in Chrome it would just look the same in Firefox and Opera, etc (and I don't give a crap about IE).
 

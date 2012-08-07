@@ -6,7 +6,7 @@ photo: http://farm5.static.flickr.com/4100/4854387093_25b480779d.jpg
 click-through: http://www.flickr.com/photos/lostinpixels/4854387093/
 categories: 
 
-- pictures
+- picture
 ---
 **[Lumen print - Pushing Daises](http://www.flickr.com/photos/lostinpixels/4854387093/) by [lost in pixels](http://www.flickr.com/photos/lostinpixels/)**
 

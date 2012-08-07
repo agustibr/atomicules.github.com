@@ -5,7 +5,7 @@ title: Kyle Bean's Portfolio
 link: http://www.kylebean.co.uk/portfolio/
 categories: 
 
-- pictures
+- picture
 content-source: http://twitter.com/#!/livino/status/103175832226369536 
 ---
 This guy has talent. I love the Hen.

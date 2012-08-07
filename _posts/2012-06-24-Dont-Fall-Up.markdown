@@ -5,7 +5,7 @@ title:
 photo: http://farm6.staticflickr.com/5315/7422438700_219944323e.jpg
 click-through: http://www.flickr.com/photos/i-5-m/7422438700/in/photostream
 categories: 
-- pictures
+- picture
 date: 2012-06-24 11:05:00:00 UTC+1
 ---
 Using each camera for its own natural strengths is something I really should remember and do more often. 

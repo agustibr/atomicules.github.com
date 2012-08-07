@@ -4,7 +4,7 @@ type: link
 title: In Vim, prevent caret moving back when I leave edit mode?
 link: http://superuser.com/questions/230081/in-vim-prevent-caret-moving-back-when-i-leave-edit-mode
 categories: 
-- programming
+- program
 date: 2012-06-26 14:27:00:00 UTC+1
 ---
 A quicky. This has bugged me for ages, but I never thought to go and look for a solution; is there a secret vim config setting, etc? Anyway after a lot of searching today, I eventually stumbled upon the linked question on SuperUser and it was *exactly* the same question I had. Unfortunately no great answers, but it did inspire me to come up with [my own answer](http://superuser.com/a/441719/76332). Although very simple it works fine for me and now means I can escape out of insert mode and have the behaviour I want (and expect):

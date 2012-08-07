@@ -4,7 +4,7 @@ type: link
 title: Solarized
 link: http://ethanschoonover.com/solarized
 categories: 
-- programming
+- program
 
 content-source: https://convore.com/vim/solarized-color-scheme/
 ---

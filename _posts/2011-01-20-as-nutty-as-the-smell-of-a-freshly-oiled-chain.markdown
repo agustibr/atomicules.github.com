@@ -5,6 +5,6 @@ title:
 quote: As nutty as the smell of a freshly oiled chain
 
 categories: 
-- pushing
+- push
 ---
 _Me_. (I've run out of bike oil. The next nearest thing I have to hand: Sesame Oil.)

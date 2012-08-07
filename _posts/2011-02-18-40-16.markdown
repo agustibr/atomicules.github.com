@@ -3,7 +3,7 @@ layout: page
 type: text
 title: 40/16?
 categories: 
-- pushing
+- push
 ---
 The wind and winter tyres are wearing me down. At least I hope that's it. Perhaps I need to eat more? Either way I would have thought my legs would feel stronger by now, but as it is they feel weaker. It is difficult to remember what summer cycling was like with commute times of just over an hour, whereas now 1.5 hrs is the norm (quite quick actually). Is it just my winter tyres?
 

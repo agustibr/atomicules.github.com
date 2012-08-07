@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Home-made Overshoes
 categories: 
-- pushing
+- push
 ---
 My cheapskate approach to life crosses all boundaries. I'd like some proper overshoes, in the same way I'd like proper cycling shoes and clipless pedals. But: Ho, hum. As it is, late summer I had a silly idea to cut the bottoms of my waterproofs off and make them into waterproof overshoes (plastic bag on feet styley). I was still wearing shorts so it kind of made sense, but I forgot that waterproof overshoes aren't going to work if water can run in the top of them!
 

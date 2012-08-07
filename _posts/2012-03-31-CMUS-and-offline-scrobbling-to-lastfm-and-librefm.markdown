@@ -4,7 +4,7 @@ type: text
 title: CMUS and offline scrobbling to Last.fm and Libre.fm
 date: 2012-03-31 00:50:00 UTC+1
 categories:
-- programming
+- program
 ---
 As [mentioned here]({{ site.baseurl }}2012/03/17/To-the-command-line-batman.html) I've (somewhat) recently moved to using CMUS instead of Rythmbox. Ever since my iPod died completely I'd been relying on a desktop player and offline scrobbling; since I am most likely to listen to music at work, but can't scrobble because our proxy server blocks it. Rhythmbox supports offline scrobbling (hurray!), but is a bit crap about it (boo!): For unknown reasons it doesn't log all tracks and - although it did successfully scrobble them to Last.fm when back on line - when I decided I'd move to Libre.fm (but then reconsidered and kept my last.fm account as well) it was even crappier at scrobbling, logging a different number of tracks for each service and then losing all tracks for Libre.fm during submission!
 

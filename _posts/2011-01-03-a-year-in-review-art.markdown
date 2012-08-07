@@ -4,7 +4,7 @@ type: text
 title: A Year in Review... Art
 categories: 
 
-- pictures
+- picture
 - owtelse
 ---
 ## Photography

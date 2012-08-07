@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Vim and xmllint on Windows. 
 categories: 
-- programming
+- program
 ---
 I had occasion to get this working again. Not that it's hard mind you, just that I gave up too easily last time. I'd been logging an xml response from a Java programme and ended up with a massive xml file all on one line. Obviously not ideal if you want to search through the file.
 

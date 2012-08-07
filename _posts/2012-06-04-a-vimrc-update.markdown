@@ -3,7 +3,7 @@ layout: page
 type: text
 title: A .vimrc Update
 categories: 
-- programming
+- program
 date: 2012-06-04 09:00:00:00 UTC+1
 ---
 I thought rather than update a [three year old post]({{ site.baseurl }}2009/05/30/vim.html) I'd just do a quick new one, a "Brief history of my .vimrc" so to speak.

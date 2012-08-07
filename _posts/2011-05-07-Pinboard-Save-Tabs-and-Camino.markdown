@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Pinboard Save Tabs and Camino (almost!) 
 categories: 
-- programming
+- program
 ---
 I really like [Pinboard](http://www.pinboard.in/) and I'm probably [as thankful as Maciej](http://blog.pinboard.in/2011/03/anatomy_of_a_crushing/) for Yahoo dropping the ball with Delicious as otherwise it would have just remained "one of those things on my radar". I don't know what the pace of development was like before I joined (obviously), but I love the features that have been added since, such as Twitter archiving and the fabulous [Save Tab](http://blog.pinboard.in/2011/04/new_save_tabs_feature/) sets feature.
 

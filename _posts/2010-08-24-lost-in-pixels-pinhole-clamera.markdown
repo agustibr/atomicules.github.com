@@ -5,6 +5,6 @@ title: Lost in Pixels' pinhole 'Clamera'
 link: http://www.flickr.com/photos/lostinpixels/4921255688/
 categories: 
 
-- pictures
+- picture
 ---
 And the [resulting image](http://www.flickr.com/photos/lostinpixels/4921388846/). Fabulous!

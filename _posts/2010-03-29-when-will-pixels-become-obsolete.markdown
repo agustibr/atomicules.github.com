@@ -4,7 +4,7 @@ type: link
 title: When will pixels become obsolete?
 link: http://kilianvalkhof.com/2008/design/when-will-pixels-become-obsolete/
 categories: 
-- programming
+- program
 ---
 I guess the answer is never?
 

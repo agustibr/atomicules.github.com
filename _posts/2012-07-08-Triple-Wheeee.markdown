@@ -5,7 +5,7 @@ title:
 photo: http://farm8.staticflickr.com/7253/7428739010_40de478c17.jpg
 click-through: http://www.flickr.com/photos/i-5-m/7428739010/in/photostream/
 categories: 
-- pictures
+- picture
 date: 2012-07-08 00:01:00:00 UTC+1
 ---
 The last of my recent resurgence in uploads. I've now just got four films left to get developed from the two-year hiatus and then one film that's about a year and half old and one that is fairly recent. And *then* I can start shooting afresh.

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: It wasn't meant to be this way
 categories: 
-- programming
+- program
 ---
 I had one of those sudden dawn-of-realisation moments last month: It just occurred to me that I was using Windows seven days a week. And yet if I thought back to over a decade ago, when I was buying my first computer (proper) I remember my operating shortlist was: OSX, BeOS or some flavour of Linux. Windows didn't even get a look in! (During University, as well as the norm of Windows NT in the lab and people using 98/ME at home, I'd got to use Solaris and Vax/VMS on my year out - so I was fortunate enough to at least know there were alternatives). At the time I did not consider myself geeky (capable) enough to use Linux. I would have loved to use BeOS, but - as far as I can recall from at the time - it's future was already [looking dead](http://www.beincorporated.com/). And of course OSX wasn't yet out, but the [promise of the beta](http://en.wikipedia.org/wiki/Osx#Public_Beta:_.22Kodiak.22) was enough to sway me to drop my graduate loan on an iMac. And the rest is history...
 

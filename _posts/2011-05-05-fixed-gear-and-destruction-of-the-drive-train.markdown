@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Fixed Gear and Destruction of the Drive Train. 
 categories: 
-- pushing
+- push
 ---
 Replaced my bottom bracket the other day after it failed completely (fortunately still managed to get home on it, but the wobble was a bit like being on a clown's bike). It had lasted less than a year. Ok, fair enough, I use nothing but the [cheapest, shoddiest, components](http://www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_10151_productId_158184_categoryId_210159_langId_-1?cm_sp=Intelligent_Offer-_-Product_List_Zone_1-_-Blank&iozone=PLPz1), but still. Wow. I guess this is what putting the miles in does. 
 

@@ -6,7 +6,7 @@ quote: "iPhone = my computer...Haven't bought new laptop since late 06"
 
 
 categories: 
-- programming
+- program
 ---
 _- [Megnut](http://twitter.com/megnut/status/2243938832)_
 

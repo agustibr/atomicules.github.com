@@ -5,7 +5,7 @@ title: 110 Format lives again
 link: http://www.adox.de/ADOX_Filme/Pocketfilm/110.html
 categories: 
 
-- pictures
+- picture
 ---
 _- via [choschiba in the Flickr 110 Format group](http://www.flickr.com/groups/110/discuss/72157621784612065/72157624375641636/)._
 

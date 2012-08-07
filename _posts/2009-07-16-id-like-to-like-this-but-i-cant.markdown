@@ -4,7 +4,7 @@ type: link
 title: I'd like to like this, but I can't
 link: http://googlereader.blogspot.com/2009/07/following-liking-and-people-searching.html
 categories: 
-- programming
+- program
 ---
 Google Reader has gained "Liking" posts, which is great and what I thought "Sharing" should have done all along. I.e. I've always thought that if I've shared a post I should be able to see who else has shared it. And that is precisely what "Liking" does.
 

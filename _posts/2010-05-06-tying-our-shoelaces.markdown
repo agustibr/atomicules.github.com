@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Tying our Shoelaces
 categories: 
-- programming
+- program
 ---
 It might be collectively slow progress, but progress _is_ being made on the next version of [Shoes](http://shoes.heroku.com), Policeman. 
 

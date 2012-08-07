@@ -4,7 +4,7 @@ type: quote
 title: 
 quote: Cycling saved my life
 categories: 
-- pushing
+- push
 content-source: http://news.bbc.co.uk/2/hi/programmes/hardtalk/9674867.stm
 ---
 *Graeme Obree*

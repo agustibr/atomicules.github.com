@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Some Notes on Developing Extensions for Chrome vs Firefox 
 categories: 
-- programming
+- program
 ---
 I recently developed a pretty basic extension for Chrome for something at work and then ported it to Firefox. Getting the whole thing working in Chrome probably took a day, Firefox took me a a couple of weeks longer (not continuous development time mind you, this was a little side project). But I got stuck a lot on Firefox, whereas I didn't with Chrome.
 

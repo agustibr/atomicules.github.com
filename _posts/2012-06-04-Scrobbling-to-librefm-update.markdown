@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Scrobbling to libre.fm - Update
 categories: 
-- programming
+- program
 date: 2012-06-04 13:15:00:00 UTC+1
 ---
 Another little update post. Annoyingly, as soon as I got a [nice working solution]({{ site.baseurl }}2012/03/31/CMUS-and-offline-scrobbling-to-lastfm-and-librefm.html), scrobbling to [libre.fm](http://libre.fm) via [Scroblr.net](http://scroblr.net/) seems to have stopped working. I'm not sure why. I contacted the guy who runs it, but as of right now it is still not scrobbling to libre.fm for me. 

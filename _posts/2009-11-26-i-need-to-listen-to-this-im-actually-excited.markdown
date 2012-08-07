@@ -6,7 +6,7 @@ photo: images/tumblr_ktqm2eIXwh1qzcagpo1_400.jpg
 click-through: 
 categories: 
 
-- pictures
+- picture
 - owtelse
 ---
 I need to listen to this. I'm actually excited about it. And a little bit worried it won't live up to my expectations.

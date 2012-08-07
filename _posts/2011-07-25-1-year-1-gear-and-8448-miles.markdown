@@ -3,7 +3,7 @@ layout: page
 type: text
 title: 1 year, 1 gear and 8448 Miles 
 categories: 
-- pushing
+- push
 ---
 _(or a more impressive sounding 13596 km, or over a third of the [circumference of the globe](http://www.wolframalpha.com/input/?i=distance+around+the+world),  or almost half of the Guiness Book of World Records' requirement for [cycling around the world](http://en.wikipedia.org/wiki/Around_the_world_cycling_record#History), or another whole additional race on top of the [Tour de France](http://en.wikipedia.org/wiki/2011_Tour_de_France), [Giro d'Italia](http://en.wikipedia.org/wiki/2011_Giro_d%27Italia) and the [Vuelta a España](http://en.wikipedia.org/wiki/Vuelta_a_España) combined. Not too shabby for "just" cycling to work)_.
 

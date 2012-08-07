@@ -5,7 +5,7 @@ title: The Future of Camino
 link: http://caminobrowser.org/blog/2011/#mozembedding
 date: 2011-04-18 14:00:00 UTC
 categories: 
-- programming
+- program
 ---
 This caught me a bit off guard and it must have been the time of the month as well as I "got a bit emotional" over what is really just a web browser (but it's not!).
 

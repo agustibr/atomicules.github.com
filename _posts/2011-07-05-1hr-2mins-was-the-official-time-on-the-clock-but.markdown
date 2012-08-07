@@ -3,7 +3,7 @@ layout: page
 type: text
 title: 1hr 2mins was the official time on the clock, but...
 categories: 
-- pushing
+- push
 ---
 * Have to then put phone in bag and then put bag, helmet and gloves on. Then get bike down from rack and out of the bike shed.
 * Then I've got one roundabout to wait at coming out of work.

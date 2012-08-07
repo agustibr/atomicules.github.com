@@ -6,7 +6,7 @@ photo: images/tumblr_le91csJDFt1qzcagpo1_r1_500.jpg
 click-through: http://www.dwaynesphoto.com/
 categories: 
 
-- pictures
+- picture
 ---
 <a href="http://www.dwaynesphoto.com/">The Last Roll of Kodachrome</a>. 
 

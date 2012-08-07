@@ -4,7 +4,7 @@ type: link
 title: Announcing Green Shoes Website!
 link: http://green.shoesrb.com/
 categories: 
-- programming
+- program
 ---
 <p><a href="http://tumblr.zacharyscott.net/post/2830770929/announcing-green-shoes-website" class="tumblr_blog">zzak</a>:</p>
 

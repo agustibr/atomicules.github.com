@@ -3,7 +3,7 @@ layout: page
 type: text
 title: The Obrananapan
 categories:
-- pushing
+- push
 ---
 Apparently, Graeme Obree said that [bananas and marzipan](http://philsroadbikingblog.blogspot.com/2010/09/meeting-graeme-obree-part-ii.html) are good foods for cycling. So I thought why not combine the two? And that's precisely what I did: Banana wrapped in marzipan. Awesome.
 

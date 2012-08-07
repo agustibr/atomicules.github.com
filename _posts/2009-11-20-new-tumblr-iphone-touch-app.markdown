@@ -3,7 +3,7 @@ layout: page
 type: text
 title: New Tumblr iPhone/Touch app
 categories: 
-- programming
+- program
 ---
 A quick test from the new app - native editing - Woohoo!
 

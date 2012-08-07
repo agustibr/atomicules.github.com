@@ -4,7 +4,7 @@ type: link
 title: I don’t pay road tax | At War With The Motorist
 link: http://waronthemotorist.wordpress.com/2010/10/04/i-dont-pay-road-tax/
 categories: 
-- pushing
+- push
 content-source: http://twitter.com/bengoldacre/status/26361841155
 ---
 I'm in two minds at the minute as to how to behave with motorists. Especially considering the recent road rage incident. I think I'm going to try to be less aggressive. I'm not necessarily going to sit in traffic queues, but if a motorist starts being aggressive because I've dared overtake them I'm going to try to be passive rather than aggravate the situation. After all, they have a bigger chunk of metal to throw about. 

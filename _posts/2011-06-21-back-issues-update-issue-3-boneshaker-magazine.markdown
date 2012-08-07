@@ -4,7 +4,7 @@ type: link
 title: Back Issues update (Issue #3) | Boneshaker Magazine
 link: http://www.boneshakermag.com/back-issues-update-issue-3/
 categories: 
-- pushing
+- push
 ---
 oooh, back issues available online. I didn't realise. This is great for those too skint to get the real thing.
 

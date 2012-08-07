@@ -3,7 +3,7 @@ layout: page
 type: text
 title: OS and Network Conditionals in Vim Configuration
 categories: 
-- programming
+- program
 ---
 A bit of a follow-up to [this vim post]({{ site.baseurl }}2009/05/30/vim.html) since - as happens to all Vim uses - my .vimrc file has grown a bit in complexity. It's still nowhere as near insane as some people's, but has changed enough to make that post redundant. Oh, and so has the number of plugins I'm using.
 

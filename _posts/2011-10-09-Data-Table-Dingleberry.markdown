@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Data.Table Dingleberry
 categories: 
-- programming
+- program
 ---
 It's not the first time (and I'm sure it won't be the last time) that I blindly copied, pasted and adapted code before fully understanding what's going on. 
 

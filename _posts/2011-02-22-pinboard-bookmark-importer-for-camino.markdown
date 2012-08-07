@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Pinboard Bookmark Importer for Camino
 categories: 
-- programming
+- program
 ---
 It's been awhile since I had a play with Applescript, but I thought I'd use it to automate importing my Pinboard bookmarks (so I _(a)_ have a local backup and _(b)_ can search straight from Camino).
 

@@ -5,6 +5,6 @@ title:
 video: http://vimeo.com/18915786
 categories: 
 
-- pictures
+- picture
 ---
 I have just a _little bit_ of a crush on Zooey.

@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Java Smack API and  java.io.EOFException
 categories: 
-- programming
+- program
 ---
 I came across this confusing error using the [Smack API](http://www.igniterealtime.org/projects/smack/):
 

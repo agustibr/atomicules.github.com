@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Learning C
 categories: 
-- programming
+- program
 ---
 Yesterday I decided I'd make a start on learning C as I'd like to be able to hack [Shoes](http://shoes.heroku.com) a bit. So the first thing I needed to sort out was a build environment as there's no such loveliness as [IRB](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell). I already had the [WDK](http://www.microsoft.com/whdc/devtools/WDK/default.mspx) (previously, DDK) build environment installed for [building Shoes](http://wiki.github.com/shoes/shoes/buildingshoeswithwindowsddk) so figured that I should also be able to use this for plain C, but just didn't know how (the only things I've ever typed are _rake_ and _make_). Thankfully someone else had documented how to [use WDK to build C programs](http://randomlearningnotes.wordpress.com/2009/04/20/using-wdkddk-build-environment-for-drivers-and-non-drivers/) so I was all set to go. 
 

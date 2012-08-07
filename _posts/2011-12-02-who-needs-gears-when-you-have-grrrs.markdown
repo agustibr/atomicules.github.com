@@ -4,7 +4,7 @@ type: quote
 title: 
 quote: Who needs gears when you have grrrs?
 categories: 
-- pushing
+- push
 ---
 Me (unless someone else has said it before, in which case: them).
 

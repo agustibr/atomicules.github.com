@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Twitter Lists
 categories: 
-- programming
+- program
 ---
 I've struggled with these since start. I think they are a good idea, but it is hard to set them up effectively (via website or clients) and also use them effectively from anywhere (it's just too convenient to default to the main timeline).
 

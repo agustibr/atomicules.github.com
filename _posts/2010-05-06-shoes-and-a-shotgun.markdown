@@ -4,7 +4,7 @@ type: link
 title: Shoes and a Shotgun
 link: http://github.com/hansineffect/Shoes-and-a-Shotgun
 categories: 
-- programming
+- program
 ---
 Whilst on the Shoes news, came across this recently which looks interesting:  
 

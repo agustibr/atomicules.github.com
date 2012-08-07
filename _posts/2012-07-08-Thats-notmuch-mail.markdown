@@ -4,7 +4,7 @@ type: quote
 title: 
 quote: Found 25944 total files (that's not much mail)
 categories: 
-- programming
+- program
 date: 2012-07-08 21:10:00:00 UTC+1
 ---
 _Actually, I think you'll find it is_

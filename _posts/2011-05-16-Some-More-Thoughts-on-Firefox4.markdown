@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Some More Thoughts on Firefox 4 and TenFourFox
 categories: 
-- programming
+- program
 ---
 As a result of my [FormData frustrations]({{ site.baseurl }}2011/05/07/Pinboard-Save-Tabs-and-Camino.html) I thought I'd give TenFourFox a proper whirl and at the same time try FireFox 4 as my default on Windows (instead of Chrome) so I could also try out the synchronisation service.
 

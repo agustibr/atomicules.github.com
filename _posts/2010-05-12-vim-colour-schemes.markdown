@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Vim Colour Schemes
 categories: 
-- programming
+- program
 ---
 Owing to having to set-up Vim again on my work machine, I decided to have a look around to see if I could find a better colour scheme than [pyte](http://www.vim.org/scripts/script.php?script_id=1492), which I've been using for awhile.
 

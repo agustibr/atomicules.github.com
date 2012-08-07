@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Road Rage
 categories: 
-- pushing
+- push
 ---
 Animosity between motorists and cyclists is just a natural part of cycling and driving. Motorists hate cyclists for getting in the way and holding them up for 5 secs and cyclists hate motorists because of the whole [SMIDSY](http://www.stop-smidsy.org.uk/) thing.
 

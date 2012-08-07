@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_le7lv8f8m11qz4h13o1_500.jpg
 click-through: http://www.velorution.biz/shop/boneshaker-magazine-1/
 categories: 
-- pushing
+- push
 content-source: http://hickensian.com/post/2517121267/magazine-boneshaker-3-jpg
 ---
 <p><a href="http://hickensian.com/post/2517121267/magazine-boneshaker-3-jpg" class="tumblr_blog">hickensian</a>:</p>

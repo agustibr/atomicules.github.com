@@ -4,7 +4,7 @@ type: video
 title: 
 video: http://www.youtube.com/watch?v=pTPFrww6zdA
 categories: 
-- pushing
+- push
 ---
 [Best Bike Lock Ever](http://www.youtube.com/watch?v=pTPFrww6zdA&feature=youtu.be). This is just ingenious. Also, see the [making of video](http://www.youtube.com/watch?v=kvc0A_cWUCU&feature=youtu.be).
 

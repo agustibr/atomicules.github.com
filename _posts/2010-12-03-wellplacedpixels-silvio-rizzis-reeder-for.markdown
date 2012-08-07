@@ -6,7 +6,7 @@ photo: images/tumblr_lcq73tQNS31qazfel.jpg
 click-through: 
 categories: 
 
-- programming
+- program
 ---
 <p><a href="http://wellplacedpixels.com/post/2054364619/silvio-rizzis-reeder-for-mac" class="tumblr_blog">wellplacedpixels</a>:</p>
 

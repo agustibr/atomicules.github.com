@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Spring (Almost)
 categories: 
-- pushing
+- push
 ---
 It's spring. Almost/maybe/soon (it definitely was for a bit, but then dipped back into winter). Anyway, it warmed up enough that I had to take off my winter tyres; it really got too warm for those tyres and I think the rear might be a bit knackered now; the studs are all pushed over. 
 

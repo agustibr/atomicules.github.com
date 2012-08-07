@@ -6,7 +6,7 @@ photo: http://farm3.static.flickr.com/2450/4021056755_4a4c988d37.jpg
 click-through: http://www.flickr.com/photos/i-5-m/4021056755/in/set-72157622608704380/
 categories: 
 
-- pictures
+- picture
 ---
 Completely forgot to write a about this, but it's worthy of a blog post as well as being on Flickr. 
 

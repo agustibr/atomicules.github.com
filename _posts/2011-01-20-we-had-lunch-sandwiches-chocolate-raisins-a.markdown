@@ -5,7 +5,7 @@ title:
 quote: 'We had lunch: sandwiches, chocolate, raisins, a banana and some hard candies, but we had forgotten to bring anything to drink and the lunch exacerbated our thirst.'
 categories: 
 
-- pictures
+- picture
 ---
 _Ansel Adams, Rock and Surf._ 
 

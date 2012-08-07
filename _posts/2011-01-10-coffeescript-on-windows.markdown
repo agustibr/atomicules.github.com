@@ -4,7 +4,7 @@ type: link
 title: CoffeeScript on Windows
 link: http://blog.mnasyrov.com/coffeescript-on-windows-how-to-roast-coffee
 categories: 
-- programming
+- program
 ---
 I found this post by Mikhail Nasyrov from [an answer on Stackoverflow](http://stackoverflow.com/questions/3175561/coffeescript-on-windows/4021046#4021046). It includes a clever little batch file to let you call the `coffee` command from directories other than the bin directory using the normal Windows path syntax (as opposed to the cygwin syntax). This is all very clever, but still means you must pass the path of the file you wish to compile, etc, in the cygwin format.
 

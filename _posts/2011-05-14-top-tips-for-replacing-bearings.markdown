@@ -3,7 +3,7 @@ layout: page
 type: text
 title: Top tips for replacing bearings
 categories: 
-- pushing
+- push
 ---
 1. Don't leave it until they are completely destroyed.
 2. For bottom brackets, you really need to [bolt the tool onto the axle](http://pinboard.in/u:atomicules/b:8b941d39055f).

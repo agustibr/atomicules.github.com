@@ -4,6 +4,6 @@ type: link
 title: Shiny New Shoes
 link: http://groups.google.com/group/shoooes
 categories: 
-- programming
+- program
 ---
 A replacement mailing list set-up for Shoes developers.

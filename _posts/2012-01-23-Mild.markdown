@@ -4,7 +4,7 @@ type: text
 title: Mild
 date: 2012-01-23 14:43:00 UTC+0
 categories: 
-- pushing
+- push
 ---
 All this mild winter weather, and the roadies it has brought out of hibernation early, has really got me lusting after a road bike. It's so very, very tempting to go and get an entry level road bike with my cycle to work voucher (I forgot to do the blog post where I mentioned that good news for the year) even though I know full well I couldn't use it all year round:
 

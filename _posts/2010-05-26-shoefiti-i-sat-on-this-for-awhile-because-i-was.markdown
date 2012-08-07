@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_l315r7ufnU1qzcagp.jpg
 click-through: http://github.com/atomicules/shoefiti
 categories: 
-- programming
+- program
 ---
 [Shoefiti](http://github.com/atomicules/shoefiti)
 

@@ -5,7 +5,7 @@ title:
 photo: images/tumblr_lsply9UnuQ1qma446o1_500.jpg
 click-through: http://www.lfgss.com/thread29-1042.html
 categories: 
-- pushing
+- push
 content-source: http://www.lfgss.com/thread29-1042.html
 ---
 <p><a href="http://www.the-paceline.com/post/11147402090" class="tumblr_blog">thepaceline</a>:</p>

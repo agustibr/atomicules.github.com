@@ -6,7 +6,7 @@ photo: images/tumblr_kurmoaIPmX1qzw1hfo1_500.jpg
 click-through: http://tensionsevolve.files.wordpress.com/2009/09/where-the-wild-things-are.jpg
 categories: 
 
-- pictures
+- picture
 ---
 <p><a href="http://kisskitty.tumblr.com/post/286556469/wow-i-feel-so-young-this-film-it-made-me-a" class="tumblr_blog">kisskitty</a>:</p>
 

@@ -4,7 +4,7 @@ type: link
 title: Camino 2 released
 link: http://caminobrowser.org/releases/2.0/
 categories: 
-- programming
+- program
 ---
 I've been using Camino for a long time, since before it was called Camino, back in the days of Jaguar.
 
