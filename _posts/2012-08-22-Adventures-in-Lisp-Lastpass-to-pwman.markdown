@@ -12,7 +12,7 @@ First port of call was figuring out libraries for Lisp. I can't remember where I
 
 There's really not much to the code (this was a lovely first exercise in Lisp). Libraries are loaded as follows:
 
-{% highlight common-lisp %}
+{% highlight cl %}
 (load "~/.sbclrc")
 (ql:quickload "csv-parser")
 (ql:quickload "xmls")
@@ -20,13 +20,13 @@ There's really not much to the code (this was a lovely first exercise in Lisp). 
 
 The above bit is probably the only bit that needs tweaking dependant on the CLisp compiler being used. To load quicklisp it just sources the `rc` file, where quicklisp will have written the bits and pieces it needs to load itself. I suppose I could include those lines directly. Next there is rudimentary handling of command line arguments to pick up the Lastpass export file and default to a file called `Lastpass.csv` in the current directory if no file is specified. 
 
-{% highlight common-lisp %}
+{% highlight cl %}
 (defparameter infile (if (null (second *posix-argv*)) "lastpass.csv" (second *posix-argv*)))
 {% endhighlight %}
 
 Interestingly the first argument is always `sbcl`. I don't get why you'd ever need that as an argument? Also, this is another bit that would need tweaking for other CLisps as `*posix-argv*` is specific to SBCL. Next comes the actualbody of the programme/script:
 
-{% highlight common-lisp %}
+{% highlight cl %}
 (with-open-file (stream "pwman.txt" :direction :output :if-exists :supersede)
 	(format stream "<?xml version=\"1.0\"?><PWMan_PasswordList version=\"3\"><PwList name=\"Main\">")
 	(csv-parser:map-csv-file infile 
