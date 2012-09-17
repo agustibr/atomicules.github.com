@@ -36,7 +36,7 @@ readnetrc = do
 	return (username, password)
 {% endhighlight %}
 
-Whilst I was at it, I thought I should try to implement similarly for Vim as well so I could do things like this in my `.vimrc` (this example for [Simplenote.vim](https://github.com/mrtazz/simplenote.vim):
+Whilst I was at it, I thought I should try to implement similarly for Vim as well so I could do things like this in my `.vimrc` (this example for [Simplenote.vim](https://github.com/mrtazz/simplenote.vim)):
 
 {% highlight vim %}
 let g:SimplenoteUsername = GetCredFromNetrc("simple-note.appspot.com")[0]
@@ -66,3 +66,5 @@ function! GetCredFromNetrc(machine)
 	return [login, password]
 endfunction
 {% endhighlight %}
+
+I just include that function in my `.vimrc` just before the point where I want to use it.
