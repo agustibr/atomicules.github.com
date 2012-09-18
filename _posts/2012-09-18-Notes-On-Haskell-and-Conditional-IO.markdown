@@ -5,7 +5,7 @@ title: Notes on Haskell and Conditional IO
 categories: 
 - program
 ---
-From the department of "It's obvious when you know how". I'd finally got around to working on [this issue on Haskerdeux](https://github.com/atomicules/HaskerDeux/issues/1) and I'd consolidate the duplicate Curl post requests into one function and had this working code:
+From the department of "It's obvious when you know how". I'd finally got around to working on [this issue on Haskerdeux](https://github.com/atomicules/HaskerDeux/issues/1) and I'd consolidated the duplicate Curl post requests into one function and had this working code:
 
 {% highlight haskell %}
 curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] number = withCurlDo $ do
@@ -28,7 +28,7 @@ curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] num
 			return itemid = Main.id $ tdsf!!(read (fromJust number)::Int)
 {% endhighlight %}
 
-But that doesn't work and just gives a ``parse error on input \`<-'`` for the `where itemid` line. I probably also tried things like:
+But that doesn't work and just gives a ``parse error on input `<-'`` for the `where itemid` line. I probably also tried things like:
 		
 {% highlight haskell %}
 curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] number = withCurlDo $ do
@@ -58,4 +58,4 @@ curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] num
 		else return $ CurlPostFields ["todo_item[todo]="++curlpostdata, "todo_item[do_on]="++todays_date]
 {% endhighlight %}
 
-Problem solved. I had no idea you could bind if statements in that way. If only if also worked for the `where` statement option I tried as that is probably a bit cleaner and is along the same lines of binding the `if` statement.
+Problem solved. I had no idea you could bind if statements in that way. It now seems a shame the `where` statement option I tried didn't work as that is along the same lines as this binding of the `if` statement and is a bit more concise. 
