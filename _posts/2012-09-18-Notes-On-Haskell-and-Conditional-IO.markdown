@@ -1,7 +1,7 @@
 ---
 layout: page
 type: text
-title:Notes on Haskell and Conditional IO
+title: Notes on Haskell and Conditional IO
 categories: 
 - program
 ---
