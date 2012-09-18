@@ -14,7 +14,7 @@ curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] num
 	let curlpostfields = if isJust number
 		then CurlPostFields ["todo_item["++(show itemid)++"?]"++curlpostdata]
 		else CurlPostFields ["todo_item[todo]="++curlpostdata, "todo_item[do_on]="++todays_date]
-{% end highlight %} 
+{% endhighlight %} 
 
 But I only wanted to do the `tdsf` and `let itemid` bits if needed. When I had my three separate (practically duplicate) Curl post requests I could just omit this bit for the function in question, but now I needed some way to handle it conditionally. I had hoped I could do something like this:
 
@@ -26,7 +26,7 @@ curlpost [todays_date, curlpostdata, apiurl, okresponse, username, password] num
 		where itemid <- do
 			tdsf <- curlget [todays_date, username, password]
 			return itemid = Main.id $ tdsf!!(read (fromJust number)::Int)
-{% end highlight %}
+{% endhighlight %}
 
 But that doesn't work and just gives a ``parse error on input \`<-'`` for the `where itemid` line. I probably also tried things like:
 		
