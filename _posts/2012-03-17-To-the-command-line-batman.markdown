@@ -7,7 +7,7 @@ categories:
 ---
 For reasons that I am unable to properly explain (to myself, let alone others), over the past few months I have been unable to resist the compulsion to investigate and set-up command line <s>mail</s> clients (in general). 
 
-It probably has something to do with low memory requirements, well a lot to do with that, and that would be my reasoning now, but it wasn't like I actually had that foresight that prompted all this tinkering. But, yeah, at home I have the old Powerbook that is maxed out at 1.25GB RAM and always has at least one other account constantly logged in with Safari, etc, sucking a blackhole's amount of swap space, and at work I live in a virtual machine and so only have 1GB of RAM to play with. So low memory applicationss do make A LOT of sense.
+It probably has something to do with low memory requirements, well a lot to do with that, and that would be my reasoning now, but it wasn't like I actually had that foresight that prompted all this tinkering. But, yeah, at home I have the old Powerbook that is maxed out at 1.25GB RAM and always has at least one other account constantly logged in with Safari, etc, sucking a blackhole's amount of swap space, and at work I live in a virtual machine and so only have <s>1GB</s> 768MB of RAM to play with. So low memory applications do make A LOT of sense.
 
 Oh, and I guess the other obvious thing is command line applications are more likely to be cross platform.
 
@@ -68,6 +68,4 @@ and since my Fever install started working again I'm sticking with a web based f
 
 ##File Browser/Manager
 
-Almost forgot: [Midnight Commander](http://www.midnight-commander.org/). Although, actually I'm unsold on it's usefulness. Unfortunately the Macports version doesn't seem to have mouse support and driving it purely by keyboard, well - I might as well just do my file management in the shell.
-
-I probably use it more at work as it is much lighter weight than Nautilus, and in Linux the mouse support is fine.
+Almost forgot: [Midnight Commander](http://www.midnight-commander.org/). Although, actually I'm unsold on it's usefulness. <s>Unfortunately the Macports version doesn't seem to have mouse support and driving it purely by keyboard, well - I might as well just do my file management in the shell</s> - I figured it out, it's a simple as forcing it into xterm mode, `mc -x`. However, I have since found [Ranger](http://ranger.nongnu.org/) which I think I like a lot more as it has column navigation in the same vein as OSX finder, tabs and file cut/copy/paste like Windows.
