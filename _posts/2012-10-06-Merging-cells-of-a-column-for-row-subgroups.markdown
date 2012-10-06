@@ -9,7 +9,7 @@ A very long winded title for what I thought should be short and easy to do and a
 
 Say you have some data like so:
 
-{% highlight R %}
+{% highlight r %}
 somedata <- data.table(read.table(header=TRUE, text="
 	 id     coltomerge
 	a1112      red
@@ -33,7 +33,7 @@ somedata[,list("mergedcol"=paste(coltomerge, collapse=", ")), by=id]
 
 I did say it was short and easy (I'm writing this mostly as a note to myself. I'm not under any illusion I'm sharing some complicated technique, but on the off chance someone else is having a slow day like I was...). Which gets you:
 
-{% highlight R %}
+{% highlight r %}
         id          mergedcol
 [1,] a1112   red, green, blue
 [2,] a1113           red, red
@@ -43,7 +43,7 @@ I did say it was short and easy (I'm writing this mostly as a note to myself. I'
 
 If you don't want duplicates (I didn't) it's easiest to remove them first:
 
-{% highlight R %}
+{% highlight r %}
 #For this example, setkey again otherwise unique will only consider the id column
 setkey(somedata, id, coltomerge) 
 somedata <- unique(somedata)
@@ -52,7 +52,7 @@ somedata[,list("mergedcol"=paste(coltomerge, collapse=", ")), by=id]
 
 Ta da!
 
-{% highlight R %}
+{% highlight r %}
         id        mergedcol
 [1,] a1112 blue, green, red
 [2,] a1113              red
