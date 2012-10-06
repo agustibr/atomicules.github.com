@@ -27,7 +27,7 @@ somedata <- data.table(read.table(header=TRUE, text="
 
 and you want to group together all the "coltomerge" entries for each id into one cell. You can use `paste` to concatenate the data:
 
-{% highlight R %}
+{% highlight r %}
 somedata[,list("mergedcol"=paste(coltomerge, collapse=", ")), by=id]
 {% endhighlight %}
 
