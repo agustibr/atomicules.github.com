@@ -1,0 +1,10 @@
+---
+layout: page
+type: photo
+title: 
+photo: http://farm9.staticflickr.com/8170/8011763113_0db97574a2.jpg
+click-through: http://www.flickr.com/photos/i-5-m/8011763113/in/set-72157631595566914/
+categories: 
+- picture
+---
+I think that'll do as the ones I'll post here from our holiday in Italy. I have to say: I think it's a damn shame that for all intents and purposes I'm not allowed to do photography anymore. Although I am forever hopeful. More on that in another post.
