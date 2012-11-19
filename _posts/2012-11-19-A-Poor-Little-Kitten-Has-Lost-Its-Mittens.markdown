@@ -1,3 +1,4 @@
+---
 layout: page
 type: text
 title: A Poor Little Kitten has Lost its Mittens
