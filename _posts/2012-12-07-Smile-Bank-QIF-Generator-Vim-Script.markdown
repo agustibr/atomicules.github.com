@@ -5,9 +5,9 @@ title: SMILE QIF Generator in Vim Script
 categories: 
 - program
 ---
-Since as of late I've been playing about with [web browsers that don't support bookmarklets](http://mason-larobina.github.com/luakit/) (at least as far as I can tell; there's quickmarks - I don't know what they are about) I revisited my [Smile QIF generator]({{ site.baseurl }2011/06/30/Smile-Bank-QIF-Generator-Bookmarklet.html}) and changed it into a Vim Script so I could use it in the same vein as [Dave Small's original Qifinator](http://www.web-development.co.uk/smile), i.e. copy and paste in from the Smile web page and "click" to process into Qif format:
+Since as of late I've been playing about with [web browsers that don't support bookmarklets](http://mason-larobina.github.com/luakit/) (at least as far as I can tell; there's quickmarks - I don't know what they are about) I revisited my [Smile QIF generator]({{ site.baseurl }}2011/06/30/Smile-Bank-QIF-Generator-Bookmarklet.html) and changed it into a Vim Script so I could use it in the same vein as [Dave Small's original Qifinator](http://www.web-development.co.uk/smile), i.e. copy and paste in from the Smile web page and "click" to process into Qif format:
 
-{% highlight vim }}
+{% highlight vim %}
 
 "Uses tlib http://www.vim.org/scripts/script.php?script_id=1863
 function! SmileQIF()
