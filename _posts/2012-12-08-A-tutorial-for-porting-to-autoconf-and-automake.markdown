@@ -10,8 +10,8 @@ I wanted to make a [very small tweak to a C program](https://github.com/atomicul
 
 I found this page when searching for what on earth to do, which was step 7:
 
-- `aclocal` 
-- `automake --add-missing`
-- `autoconf`
+    $ aclocal
+    $ automake --add-missing
+    $ autoconf
 
 In the process I ["modernised" the build files](https://github.com/atomicules/pwman/commits/modernise) and fixed a load of warnings since the version of `automake` has moved on since the last PWMan release. Nothing clever at all was required on my part here, it was just a matter of using the autohell tools and following the warnings/[instructions](http://www.gnu.org/software/automake/manual/autoconf.html#Obsolete-Constructs).
