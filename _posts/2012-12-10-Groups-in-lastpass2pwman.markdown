@@ -10,7 +10,7 @@ It was only with my recent tinkering with the PWman source code that I realised 
 
 This was easy-ish to do. Unfortunately the Lastpass CSV export is not ordered by group, and since the PWman database is an XML file with sublists defined as child nodes it was no longer possible to write the XML file as I read the CSV file. Lisp has hash-tables so I knew what I wanted to do was to read the CSV file and create a key for each group, collating all the entries under the appropriate key. So I started with this:
 
-{% highlight lisp %}
+{% highlight cl %}
 (csv-parser:map-csv-file infile
 	(lambda (ln)
 		(if (gethash (sixth ln) *lastpass*) ;Group
@@ -24,26 +24,26 @@ This was easy-ish to do. Unfortunately the Lastpass CSV export is not ordered by
 
 `(sixth ln)` is the sixth entry on the current line of the CSV file, which indicates the grouping in Lastpass. This code actually runs and appears to work, but something bizarre was going on with the keys in the hash table, because when I then did:
 
-{% highlight lisp %}
+{% highlight cl %}
 (loop for key being the hash-keys of *lastpass*) do (print key))
 {% endhighlight %}
 
 It listed multiple keys with the same name. I knew something was up as the keys were all quoted strings and thus could only be queried by doing something like this:
 
-{% highlight lisp %}
+{% highlight cl %}
 (defparameter gkey "Secure Notes")
 (gethash gkey *lastpass*)
 {% endhighlight %}
 
 and even then, that only returned `NIL` as if the key didn't exists. Even more oddly though, if you then did:
 
-{% highlight lisp %}
+{% highlight cl %}
 (setf (gethash gkey *lastpass*) (list 1 2 3))
 {% endhighlight %}
 
 It would then set the key properly and allow you to modify and retrieve the value. From tutorials I knew the [normal form for keys was not quoted strings](https://en.wikibooks.org/wiki/Common_Lisp/Advanced_topics/Hash_tables#Traversing_a_Hash_Table), but I couldn't figure out how to convert the strings from the CSV file to the correct form until I found this Stackoverflow question: [common lisp symbol matching](http://stackoverflow.com/questions/12420240/common-lisp-symbol-matching). The secret was `read-from-string`:
 
-{% highlight lisp %}
+{% highlight cl %}
 (gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*) 
 {% endhighlight %}
 
