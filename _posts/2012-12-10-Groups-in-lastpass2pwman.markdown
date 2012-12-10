@@ -30,7 +30,7 @@ This was easy-ish to do. Unfortunately the Lastpass CSV export is not ordered by
 
 It listed multiple keys with the same name. I knew something was up as the keys were all quoted strings and thus could only be queried by doing something like this:
 
-{% highligh lisp %}
+{% highlight lisp %}
 (defparameter gkey "Secure Notes")
 (gethash gkey *lastpass*)
 {% endhighlight %}
@@ -44,17 +44,9 @@ and even then, that only returned `NIL` as if the key didn't exists. Even more o
 It would then set the key properly and allow you to modify and retrieve the value. From tutorials I knew the [normal form for keys was not quoted strings](https://en.wikibooks.org/wiki/Common_Lisp/Advanced_topics/Hash_tables#Traversing_a_Hash_Table), but I couldn't figure out how to convert the strings from the CSV file to the correct form until I found this Stackoverflow question: [common lisp symbol matching](http://stackoverflow.com/questions/12420240/common-lisp-symbol-matching). The secret was `read-from-string`:
 
 {% highlight lisp %}
-(csv-parser:map-csv-file infile
-	(lambda (ln)
-		(if (gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*) ;Group
-			(setf
-				(gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*)
-				(append (gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*) (list ln))) ;append key
-			(setf
-				(gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*)
-				(list ln)))) :skip-lines 1) ;create key
+(gethash (read-from-string (substitute #\- #\Space (sixth ln))) *lastpass*) 
 {% endhighlight %}
 
 The `(substitute #\- #\Space ` just replaces spaces in any group names (such as "Secure Notes") with hyphens. Without this `read-from-string` will remove anything from the first space character encountered in the group name, so not vital, but makes it a bit nicer.
 
-Writing the hash table out to XML was very similar to when I was writing the XML file as the CSV file was read, with the addition of another loop (looping through each key/group and then looping withing all the entries of that group). I'm pretty sure I could be converting to XML in a more clean, lispy way, especially after reading [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html), [but...](https://rstat.us/updates/50b38cd71e393d000200b679i)
+Writing the hash table out to XML was very similar to when I was writing the XML file as the CSV file was read, with the addition of another loop (looping through each key/group and then looping withing all the entries of that group). I'm pretty sure I could be converting to XML in a more clean, lispy way, especially after reading [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html), [but...](https://rstat.us/updates/50b38cd71e393d000200b679)
