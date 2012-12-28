@@ -25,7 +25,7 @@ Some brief notes on how I got Haskell up and running on OSX 10.5 PPC. They might
 	
 		cabal install 'split' --extra-include-dirs=/macports/include --extra-lib-dirs=/macports/lib
 	
-	You can also install specific versions with Cabal, like so:
+	(Also, since I was installing into `~/.cabal` it was necessary to add `~/.cabal/bin` into my `$PATH` so other packages could find them if necessary). You can also install specific versions with Cabal, like so:
 	
 		cabal install 'json-0.4.4'
 	
