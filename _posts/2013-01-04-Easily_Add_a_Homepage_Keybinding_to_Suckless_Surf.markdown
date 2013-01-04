@@ -13,7 +13,7 @@ There are patches available for surf to provide some of this "missing" functiona
     { MODKEY|GDK_SHIFT_MASK,GDK_h,      loaduri,      { .v = "https://pinboard.in/u:atomicules/starred/" } },
 {% endhighlight %}
 
-This means I can type CTRL+SHIFT+H and go straight to my pinboard starred items and I'll use that to get everywhere else (such as searching) means I can type CTRL+SHIFT+H and go straight to my pinboard starred items and I'll use that to get everywhere else (such as searching). This key combination conflicts with the default key bindings in tabbed, but I've changed them anyway.
+This means I can type CTRL+SHIFT+H and go straight to my pinboard starred items and I'll use that to get everywhere else (such as searching). This key combination conflicts with the default key bindings in tabbed, but I've changed them anyway.
 
 The suckless tools are constructed very well. Even if you don't understand C (like me) it's easy to change key bindings, etc and in this way the `config.def.h` files become like dotfiles.
 
