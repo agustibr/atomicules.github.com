@@ -1,7 +1,7 @@
 ---
 layout: page
 type: link
-title: Bradley Wiggins: My Time
+title: "Bradley Wiggins: My Time"
 link: http://www.randomhouse.co.uk/editions/bradley-wiggins-my-time/9780224092128
 categories: 
 - push
