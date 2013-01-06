@@ -1,7 +1,7 @@
 ---
 layout: page
 type: link
-title: The North Race: Rapha Fixed 500
+title: "The North Race: Rapha Fixed 500"
 link: http://thenorthrace.co.uk/2012/12/the-rapha-fixed-500-blood-sweat-and-gears
 categories: 
 - push
