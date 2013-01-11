@@ -1,0 +1,11 @@
+---
+layout: page
+type: quote
+title: 
+quote: !:0
+categories: 
+- program
+---
+There are countless articles and [tips pages for Bash](http://ss64.com/bash/syntax-keyboard.html) out there telling you how to repeat the last command, or the [arguments of the last command](http://www.commandlinefu.com/commands/view/2476/reuse-all-parameter-of-the-previous-command-line), etc, but nowhere could I find what seems like the most useful thing to me: how to repeat the last command without any of the arguments. I really don't get why it's seemingly so useful to do the complete opposite to this. How often will you be using the same set of arguments to a different command?
+
+Yeah, so sticking this here so I REMEMBER.
