@@ -2,7 +2,7 @@
 layout: page
 type: quote
 title: 
-quote: !:0
+quote: "!:0"
 categories: 
 - program
 ---
