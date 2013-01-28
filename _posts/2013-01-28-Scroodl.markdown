@@ -1,0 +1,9 @@
+---
+layout: page
+type: link
+title: Scroodl
+link: http://scroodl.net/about
+categories: 
+- picture
+---
+Should have linked to this a year ago, but I was probably busy swapping my website over. Since I'm still waiting (31 months and counting) to get some films developed and have to continually pass up bargains on rolls of film (because there's no point adding to the backlog), a compulsion is swelling to do *something* artistic. And this is what I wanted to do a few years back, but didn't have the balls to. It is a great idea. Who knows, maybe next year.
