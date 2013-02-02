@@ -12,3 +12,11 @@ Seriously. I hope I never receive such a nice present again, for it has cost me 
 - Finally get to replace chain (long overdue, been a year). Chain tool breaks. What should have been a five minute job led to me staying up until half two in the morning. In the process knocked over a can of lawnmower oil (which I have been using in lieu of a more suitably sized can of bike oil since I ran out a few months ago) all over the kitchen floor, stood in it as well so had to bin my socks. Had to mop floor and wash down bike (since that was covered in grease from the struggle with the chain) before going to bed.
 - Of course in the morning I then learn that it really is true what they say, you do need to replace your cassette at the same time as the chain, especially if you've done as many miles as me. I had four usable (low speed) gears for two days.
 - New cassette arrives, everything good. On that afternoon, my pedal - in which the bearings had been on the way out for awhile - jams up, unscrews itself and falls out on the road. It was jammed solid so there was no fixing it at that time. Unfortunately I was faced with a nasty headwind so I couldn't even freewheel down the gentle hills. Had to walk. Of course at that point it started snowing. My trainers are also five years old and so while ok for on the bike, they of course leak like anything when walking on wet ground. Thankfully, I was [saved](https://rstat.us/updates/510c3f714b25070002023077).
+
+EDIT: Oh, and I forgot:
+
+- When it came to the weekend and fixing the pedal, of course I don't have a socket that fits the spindle nut so I can take the pedal apart and see if I can mend it at all (doubtful as it's not like I have spare bearings to hand).
+- So I manage to hacksaw off a bit of the pedal so I can get to the now un-recessed nut with a normal spanner, but the thing is not for budging at all. 
+- The best I can manage is giving it whack with a hammer until some of the ball bearings fall out (that had migrated to the wrong place and were causing it to jam up) so that it at least spins freely again, albeit wobbly.
+
+Cycling Karma Ceiling, I hate you.
