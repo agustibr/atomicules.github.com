@@ -66,6 +66,12 @@ With Newsbeuter I couldn't even get  beyond the STFL requirement. I've tried a [
 
 and since my Fever install started working again I'm sticking with a web based feed reader.
 
+###Snownews
+
+The solution to my command line feed reading issues was staring me in the face all along. [Snownews](https://kiza.eu/software/snownews/) might be older and not as hip as Newsbeuter, but it actually builds (and quickly as well) on OSX 10.5 PPC and is supported on NetBSD (for one day I may achieve my dream of a virtual NetBSD install on [prgmr.com](http://prgmr.com/); basically as soon as my Powerbook finally dies and I have to stop using that like a server). It hasn't been updated in a age (but then neither have Mutt or PWman which I use day to day) and with good reason as well - there aren't any features that need adding. I originally overlooked it because it "doesn't do" [atom feeds](https://kiza.eu/software/snownews/snowscripts/extensions/script/atom2rss/) or [https feeds](https://kiza.eu/software/snownews/faq#I_really_need_to_subscribe_to_HTTPS_feeds), but it actually does you just need to configure those feeds a bit differently and I wish I'd spent more than five secs the first time round to realise how easy this actually is.
+
+I'm still using Fever, but I might see if I can use Fever for just my "hot" and saved items. I'm not sure. I guess what I ideally need to do is write a command line client for Fever, but finding enough time to do that will be hard.
+
 ##File Browser/Manager
 
 Almost forgot: [Midnight Commander](http://www.midnight-commander.org/). Although, actually I'm unsold on it's usefulness. <s>Unfortunately the Macports version doesn't seem to have mouse support and driving it purely by keyboard, well - I might as well just do my file management in the shell</s> - I figured it out, it's a simple as forcing it into xterm mode, `mc -x`. However, I have since found [Ranger](http://ranger.nongnu.org/) which I think I like a lot more as it has column navigation in the same vein as OSX finder, tabs and file cut/copy/paste like Windows. A nice little companion is [ncdu](http://dev.yorhel.nl/ncdu) for looking at disk usage.
