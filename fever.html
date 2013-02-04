@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<title>atomicules - Feedafever Shared Items</title>
 		<link rel="shortcut icon" href="/images/favicon.png" />
-		<link rel="alternate" type="application/rss+xml" href="http://fever.i5m.co.uk/?rss=saved" />
+		<link rel="alternate" type="application/rss+xml" href="http://fever.atomicules.co.uk/?rss=saved" />
 		<link href="/styles/atomicules.css" media="screen" rel="Stylesheet" title="atomicules" type="text/css" />
 		<!-- From: https://github.com/jfhovinne/jFeed -->
 		<script type="text/javascript" src="scripts/jquery-1.6.2.min.js"></script>
@@ -16,7 +16,7 @@ var html = '<p>This should be the ten most recent shared items from my <a href="
 jQuery(function() {
 	
 	jQuery.getFeed({
-		url: 'http://fever.i5m.co.uk/?rss=saved',
+		url: 'http://fever.atomicules.co.uk/?rss=saved',
         success: function(feed) {
 		
 			html = '';
@@ -47,7 +47,7 @@ jQuery(function() {
 				
 			}
 
-			html += '<p>These are my ten most recent shared items from <a href="http://feedafever.com/">Fever</a>, for more subscribe to the <a href="http://fever.i5m.co.uk/?rss=saved">feed</a> of this page.</p>';
+			html += '<p>These are my ten most recent shared items from <a href="http://feedafever.com/">Fever</a>, for more subscribe to the <a href="http://fever.atomicules.co.uk/?rss=saved">feed</a> of this page.</p>';
             
 		}
 
