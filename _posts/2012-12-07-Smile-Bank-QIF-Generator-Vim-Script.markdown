@@ -13,7 +13,7 @@ Since as of late I've been playing about with [web browsers that don't support b
 function! SmileQIF()
 	"Delete any blank lines
 	silent! g/^$/d
-	"If previous statement (not recent items page) reverse the lines
+	"If previous statement reverse the lines
 	if getline(1)=~"BROUGHT FORWARD"
 		g/^/m0
 	endif
@@ -25,16 +25,17 @@ function! SmileQIF()
 			let linenum = linenum - 1
 		else
 			let parts = split(curr_line, "\t")
-			"Date
-			let new_line = "D".parts[0]."\t"
+			"Date. Need to strip trailing spaces
+			let new_line = "D".tlib#string#Strip(parts[0])."\t"
 			"Transaction
-			if tlib#string#Strip(parts[2]) == ""
+			if match(parts[2], "£") < 0
+				"safer than checking for blanks as sometimes it's odd whitespace
 				let new_line = new_line."T-".strpart(tlib#string#Strip(parts[3]),2)."\t"
 			else
 				let new_line = new_line."T".strpart(tlib#string#Strip(parts[2]),2)."\t"
 			endif
 			"Payment
-			let new_line = new_line."P".parts[1]."\t\^"
+			let new_line = new_line."P".tlib#string#Strip(parts[1])."\t\^"
 			call setline(linenum, new_line)
 		endif
 		let linenum = linenum + 1
