@@ -41,10 +41,11 @@ main = do
 	dispatch command files
 
 tag files = 
-	mapM_ (\file -> rawSystem "exiv2" ["-M", "add Iptc.Application2.Keywords String "++tagprefix++file, file]) files
+	mapM_ (\file -> rawSystem "exiv2" ["-M", "add Iptc.Application2.Keywords String "++tagprefix++file, "--", file]) files
+	-- The "--" delimiter is applied as a lot of my scan filenames are along the lines of "---_0216.jpg"
 	
 check files = 
-	mapM_ (\file -> rawSystem "exiv2" $ ["-P", "I"]++[file]) files
+	mapM_  (\file -> rawSystem "exiv2" $ ["-P", "I", "--"]++[file]) files
 
 {% endhighlight %}
 
