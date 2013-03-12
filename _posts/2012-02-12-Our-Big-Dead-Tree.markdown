@@ -2,7 +2,7 @@
 layout: page
 type: photo
 title: 
-photo:http://farm9.staticflickr.com/8374/8526504442_7f1b3f2b2f.jpg
+photo: http://farm9.staticflickr.com/8374/8526504442_7f1b3f2b2f.jpg
 click-through: http://www.flickr.com/photos/i-5-m/8526504442
 categories: 
 - picture
