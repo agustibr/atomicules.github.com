@@ -8,7 +8,7 @@ date: 2013-03-20 12:48:00 UTC
 ---
 I can only imagine this is what vampires feel like.
 
-By far the worse, *worse* thing since taking on this cycling commute has been the whole issue of eating. I am constantly hungry. Rarely satisfied. Always thinking about food: A constant niggling at the back of my mind demanding satisfaction. And realistically it just can't have what it wants. Not all the time. 
+By far the worst, *worst* thing since taking on this cycling commute has been the whole issue of eating. I am constantly hungry. Rarely satisfied. Always thinking about food: A constant niggling at the back of my mind demanding satisfaction. And realistically it just can't have what it wants. Not all the time. 
 
 It is not that I fear "losing control", relenting and jeopardising a finally balanced diet. No, that's not the issue at all: I'm not an athlete, nor in training. I don't particularly care about my physique (beyond wishing my thighs were bigger to help with the hills and headwinds). I know I can quickly burn off anything I put on. It's rather that I know I can't just eat *everything* in the house because that food has to feed my family as well. And me the next day.
 
