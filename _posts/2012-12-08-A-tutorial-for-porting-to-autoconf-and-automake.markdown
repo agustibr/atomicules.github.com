@@ -6,7 +6,7 @@ link: http://mij.oltrelinux.com/devel/autoconf-automake/
 categories: 
 - program
 ---
-I wanted to make a [very small tweak to a C program](https://github.com/atomicules/pwman/commit/85e48c03c0bc712986b543759ccaff7fc192f0d1) that I use and figured it should be easy enough (it was), but was flummoxed when it came to building the modified source because there was no `configure` file. I'm used to the usual build from source routine of `./configure`, `make`, `make install`, but had never had to deal with a lack of a configure file before. I could have cheated and modified the [release source code (tar.gz)](http://sourceforge.net/projects/pwman/files/pwman/pwman-0.4.4/) (which contains a `configure` file), but I wanted to work with the [repository source](https://pwman.svn.sourceforge.net/svnroot/pwman/trunk/).
+I wanted to make a [very small tweak to a C program](https://github.com/atomicules/pwman/commit/9dadcccb08b770405f4bc15118e914cb3d1946e3) that I use and figured it should be easy enough (it was), but was flummoxed when it came to building the modified source because there was no `configure` file. I'm used to the usual build from source routine of `./configure`, `make`, `make install`, but had never had to deal with a lack of a configure file before. I could have cheated and modified the [release source code (tar.gz)](http://sourceforge.net/projects/pwman/files/pwman/pwman-0.4.4/) (which contains a `configure` file), but I wanted to work with the [repository source](https://pwman.svn.sourceforge.net/svnroot/pwman/trunk/).
 
 I found this page when searching for what on earth to do, which was step 7:
 
