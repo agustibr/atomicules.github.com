@@ -17,7 +17,7 @@ There were only three things I wanted:
 
 I tried sourcing [git_prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh), but it doesn't work in mksh. I then took a look at the code and thought "that's a lot of script when all I want is the current branch in the prompt" (and also "no way I'm able to convert that to mksh") so did a simpler approach:
 
-	${GIT:=$(git branch 2>/dev/null; )}
+	$(git branch 2>/dev/null; )
 
 since error is redirected to `/dev/null` if it's not a git directory it displays nothing, if it is it displays the current branch. That's all I need. I don't know if the `git_prompt.sh` did more than that (I suspect so), but all I ever used it for was to show the current branch (I found it really helped me not do stupid things on the wrong branch). I added a couple of other bits in as well. I wanted to display the current working directory (`pwd`) because it's quite handy to know where the hell you are it you have a lot of shells open; I don't care however about my username or host:
 	
@@ -29,4 +29,6 @@ Last of all I nicked a bit from the [mksh man page](https://www.mirbsd.org/htman
 
 All added together I ended up with:
 
-	PS1='$(local WD=${PWD/$HOME/~}; if (( ${#WD} > 23 )); then print ${WD:0:10}...${WD: -10: -1}; else print $WD; fi) ${GIT:=$(git branch 2>/dev/null; )}$(if (( USER_ID )); then print \$; else print \#; fi) '
+	PS1='$(local WD=${PWD/$HOME/~}; if (( ${#WD} > 23 )); then print ${WD:0:10}...${WD: -10: -1}; else print $WD; fi) $(git branch 2>/dev/null; )$(if (( USER_ID )); then print \$; else print \#; fi) '
+
+_EDIT (2013-05-08): Fixed the Git branch bit, wasn't clearing after cd'ing to a non-git directory_
